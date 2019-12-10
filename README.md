@@ -33,6 +33,6 @@ Curated by @mgaudet because one thing he's sure of: There's more teams working o
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
-# [Igalia](https://www.igalia.com/jobs/) 📤
+## [Igalia](https://www.igalia.com/jobs/) 📤
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
