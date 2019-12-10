@@ -15,3 +15,19 @@ Curated by @mgaudet because one thing he's sure of: There's more teams working o
 * Swift
 * JSC (JavaScript interpreter created as part of WebKit)
 * Static Analysis tooling
+
+## ARM 
+
+* Multiple teams supporting the ARM ISA. 
+
+## Azul
+
+* OpenJDK, Falcon JIT compiler (LLVM)
+
+## Cloudflare
+
+* Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
+
+# Igalia
+
+* Contractor that has done work on SpiderMonkey, V8, JSC and more. 
