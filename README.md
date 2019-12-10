@@ -9,25 +9,26 @@ Curated by @mgaudet because one thing he's sure of: There's more teams working o
 
 # Companies 
 
-## Apple 
+## [Apple](https://www.apple.com/jobs/)
 
 * LLVM 
 * Swift
 * JSC (JavaScript interpreter created as part of WebKit)
 * Static Analysis tooling
 
-## ARM 
+## [ARM](https://www.arm.com/company/careers)
 
 * Multiple teams supporting the ARM ISA. 
 
-## Azul
+## [Azul](https://www.azul.com/careers-at-azul-systems/)
 
-* OpenJDK, Falcon JIT compiler (LLVM)
+* Java Virtual Machine
+* Falcon JIT compiler (LLVM)
 
-## Cloudflare
+## [Cloudflare](https://www.cloudflare.com/careers/)
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
-# Igalia
+# [Igalia](https://www.igalia.com/jobs/)
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
