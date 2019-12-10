@@ -6,6 +6,10 @@ In Scope: Teams that work on langauge implementations, compilers for languages, 
 
 Curated by @mgaudet because one thing he's sure of: There's more teams working on compilers and languages out there than you think there are. 
 
+## Annotations: 
+
+* 📤: Remote Work Supported
+
 
 # Companies 
 
@@ -20,7 +24,7 @@ Curated by @mgaudet because one thing he's sure of: There's more teams working o
 
 * Multiple teams supporting the ARM ISA. 
 
-## [Azul](https://www.azul.com/careers-at-azul-systems/)
+## [Azul](https://www.azul.com/careers-at-azul-systems/) 📤
 
 * Java Virtual Machine
 * Falcon JIT compiler (LLVM)
@@ -29,6 +33,6 @@ Curated by @mgaudet because one thing he's sure of: There's more teams working o
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
-# [Igalia](https://www.igalia.com/jobs/)
+# [Igalia](https://www.igalia.com/jobs/) 📤
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
