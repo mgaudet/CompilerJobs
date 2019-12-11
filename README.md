@@ -1,6 +1,6 @@
 # Compiler, Language and Runtime Teams
 
-A listing of compiler, language and runtime teams for people looking for jobs in this area. At the high level this is organized by company, followed by projects / teams below. 
+A listing of compiler, language and runtime teams for people looking for jobs in this area.
 
 In Scope: Teams that work on langauge implementations, compilers for languages, language runtimes, static analysis, etc.
 
@@ -87,11 +87,19 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Rust compiler development
 * [SpiderMonkey development](spidermonkey.dev)
 
+## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
+
+* LLVM 
+
 ## [Oracle](https://www.oracle.com/corporate/careers/) 
 
 * OpenJDK, including the hotspot compiler
 * [GraalVM](https://www.graalvm.org/)
 
+## [PGI](https://www.pgroup.com/about/jobs.htm) 
+
+* PGI's compilers 
+* [Flang](https://github.com/flang-compiler/flang), a Fortran frontend for LLVM
 
 ## [Qualcomm](https://www.qualcomm.com/company/careers)
 
