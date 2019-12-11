@@ -60,27 +60,47 @@ Innumerable projects, but off the top of my head:
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
 
-## MediaTek
+## [MediaTek](https://www.mediatek.com/careers/careers)
 
-## Microchip
+* Compiler development for MediaTek chips
 
-## Microsoft 
+## [Microchip](https://careers.microchip.com/)
+
+* Compiler development for Microchip's chips. 
+
+## [Microsoft](https://careers.microsoft.com/)
+
+* MSVC
+* .NET 
+* [Checked C](https://github.com/Microsoft/checkedc) 
 
 ## [Mozilla](https://careers.mozilla.org/listings/)
 
 * Rust compiler development
 * [SpiderMonkey development](spidermonkey.dev)
 
-## Qualcomm
+## [Qualcomm](https://www.qualcomm.com/company/careers)
 
-## Synopsys
+* LLVM 
+* GPU Compiler
+
+## [Synopsys](https://www.synopsys.com/company/synopsys-careers.html)
 
 * Makers of Coverity 
 
-## Theobroma Systems
+## [Theobroma Systems](https://www.theobroma-systems.com/careers/)
 
-## TI
+* Compiler support for ARM SoC
 
-## Untether.ai
+## [TI](https://careers.ti.com/) 
 
-## WindRiver 
+* LLVM 
+* TI specific compiler toolchains
+
+## [Untether.ai](https://jobs.lever.co/untether) 
+
+Building machine learning hardware
+
+## [WindRiver](https://www.windriver.com/careers/)
+
+* Compilers for VxWorks
