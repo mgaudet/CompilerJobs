@@ -153,6 +153,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 Building machine learning hardware
 
+## [WhatsApp](https://www.whatsapp.com/join)
+
+* Erlang
+
 ## [WindRiver](https://www.windriver.com/careers/)
 
 * Compilers for VxWorks
