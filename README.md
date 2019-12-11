@@ -52,17 +52,35 @@ Innumerable projects, but off the top of my head:
 * [V8](https://v8.dev/)
 * [Dart](https://dart.dev/)
 
+## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
+
+* Research and Development work in compilers and runtime systems.
+
 ## [Igalia](https://www.igalia.com/jobs/) 📤
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
 
+## MediaTek
 
-## To Be Updated 
-- Synopsys: A couple different compiler projects, but also Coverity, which is a static analysis tool, built on top of compiler technology.
-- Various chip manufacturers have internal/proprietary compilers: Qualcomm, TI, MediaTek, Microchip (I know for a fact the last two have GCC forks they maintain) 
-- WindRiver at least once upon a time had a compilers team. 
-- Mozilla
-- Microsoft 
-- ARM 
-- https://www.theobroma-systems.com/ do GCC work
-- Huawei
+## Microchip
+
+## Microsoft 
+
+## [Mozilla](https://careers.mozilla.org/listings/)
+
+* Rust compiler development
+* [SpiderMonkey development](spidermonkey.dev)
+
+## Qualcomm
+
+## Synopsys
+
+* Makers of Coverity 
+
+## Theobroma Systems
+
+## TI
+
+## Untether.ai
+
+## WindRiver 
