@@ -12,6 +12,10 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 # Companies 
 
+## [AMD](https://jobs.amd.com/)
+
+ * [AOCC](https://developer.amd.com/amd-aocc/)
+
 ## [Apple](https://www.apple.com/jobs/)
 
 * LLVM 
