@@ -32,6 +32,11 @@ In Scope: Teams that work on langauge implementations, compilers for languages, 
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
+## [Digital Mars](https://digitalmars.com/)
+
+* C/C++ compilers
+* D compiler
+
 ## [Facebook](https://www.facebook.com/careers/jobs/)
 
 A variety of projects, a limited subset of which I know about below. 
@@ -47,6 +52,7 @@ A variety of projects, a limited subset of which I know about below.
 
 Innumerable projects, but off the top of my head: 
 
+* [Go](https://golang.org/)
 * LLVM contributions
 * [V8](https://v8.dev/)
 * [Dart](https://dart.dev/)
@@ -64,9 +70,21 @@ Innumerable projects, but off the top of my head:
 
 As well as some other IBM internal compilers, and LLVM projects. 
 
+## [Inria](https://www.inria.fr/en/)
+
+* OCaml
+
 ## [Igalia](https://www.igalia.com/jobs/) 📤
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
+
+## [Jetbrains](https://www.jetbrains.com/careers/apply/)
+
+* Kotlin
+
+## [Julia Computing](https://juliacomputing.com/communication/jobs)
+
+* Julia
 
 ## [MediaTek](https://www.mediatek.com/careers/careers)
 
@@ -81,6 +99,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 * MSVC
 * .NET 
 * [Checked C](https://github.com/Microsoft/checkedc) 
+* TypeScript
+
+## [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
+
+* Haskell,
+* probably other things too.
 
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤
 
