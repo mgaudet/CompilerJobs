@@ -56,3 +56,13 @@ Innumerable projects, but off the top of my head:
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
 
+
+## To Be Updated 
+- Synopsys: A couple different compiler projects, but also Coverity, which is a static analysis tool, built on top of compiler technology.
+- Various chip manufacturers have internal/proprietary compilers: Qualcomm, TI, MediaTek, Microchip (I know for a fact the last two have GCC forks they maintain) 
+- WindRiver at least once upon a time had a compilers team. 
+- Mozilla
+- Microsoft 
+- ARM 
+- https://www.theobroma-systems.com/ do GCC work
+- Huawei
