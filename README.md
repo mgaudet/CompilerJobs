@@ -36,6 +36,10 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
+## [DataChemist](https://www.datachemist.com/company/our-team)
+
+* WOQL Compiler
+
 ## [Digital Mars](https://digitalmars.com/)
 
 * C/C++ compilers
