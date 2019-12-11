@@ -109,7 +109,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤
 
 * Rust compiler development
-* [SpiderMonkey development](spidermonkey.dev)
+* [SpiderMonkey development](https://spidermonkey.dev)
 
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
 
