@@ -56,6 +56,7 @@ Innumerable projects, but off the top of my head:
 * LLVM contributions
 * [V8](https://v8.dev/)
 * [Dart](https://dart.dev/)
+* [MLIR](https://www.tensorflow.org/mlir)
 
 ## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
 
@@ -109,7 +110,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤
 
 * Rust compiler development
-* [SpiderMonkey development](spidermonkey.dev)
+* [SpiderMonkey development](https://spidermonkey.dev)
 
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
 
