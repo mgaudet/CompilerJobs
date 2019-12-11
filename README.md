@@ -33,6 +33,26 @@ Curated by @mgaudet because one thing he's sure of: There's more teams working o
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
+## [Facebook](https://www.facebook.com/careers/jobs/)
+
+A variety of projects, a limited subset of which I know about below. 
+
+* [PyTorch](https://pytorch.org/)
+* [HHVM](https://hhvm.com/)
+
+## [Fastly](https://www.fastly.com/about/careers)
+
+* [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
+
+## [Google](https://careers.google.com/)
+
+Innumerable projects, but off the top of my head: 
+
+* LLVM contributions
+* [V8](https://v8.dev/)
+* [Dart](https://dart.dev/)
+
 ## [Igalia](https://www.igalia.com/jobs/) 📤
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
+
