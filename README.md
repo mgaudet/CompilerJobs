@@ -4,12 +4,11 @@ A listing of compiler, language and runtime teams for people looking for jobs in
 
 In Scope: Teams that work on langauge implementations, compilers for languages, language runtimes, static analysis, etc.
 
-Curated by @mgaudet because one thing he's sure of: There's more teams working on compilers and languages out there than you think there are. 
+[**Please contribute**](https://github.com/mgaudet/CompilerJobs/pulls)
 
 ## Annotations: 
 
 * 📤: Remote Work Supported
-
 
 # Companies 
 
