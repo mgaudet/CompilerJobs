@@ -56,6 +56,7 @@ Innumerable projects, but off the top of my head:
 * LLVM contributions
 * [V8](https://v8.dev/)
 * [Dart](https://dart.dev/)
+* [MLIR](https://www.tensorflow.org/mlir)
 
 ## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
 
