@@ -63,7 +63,7 @@ Innumerable projects, but off the top of my head:
 * [XL Fortran](https://www.ibm.com/us-en/marketplace/xl-fortran-linux-compiler-power)
 * [IBM Cobol](https://www.ibm.com/us-en/marketplace/ibm-cobol) 
 
-And then some other IBM internal compilers. 
+As well as some other IBM internal compilers, and LLVM projects. 
 
 ## [Igalia](https://www.igalia.com/jobs/) 📤
 
@@ -87,6 +87,12 @@ And then some other IBM internal compilers.
 
 * Rust compiler development
 * [SpiderMonkey development](spidermonkey.dev)
+
+## [Oracle](https://www.oracle.com/corporate/careers/) 
+
+* OpenJDK, including the hotspot compiler
+* [GraalVM](https://www.graalvm.org/)
+
 
 ## [Qualcomm](https://www.qualcomm.com/company/careers)
 
