@@ -109,6 +109,14 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Julia
 
+## Intel
+
+* [Intel FPGA OpenCL compiler](https://www.intel.ca/content/www/ca/en/software/programmable/sdk-for-opencl/overview.html)
+
+## [Marvell](https://www.marvell.com/company/careers/)
+
+* GCC contributions
+
 ## [MediaTek](https://www.mediatek.com/careers/careers)
 🗺 _Woburn, MA, USA_
 
@@ -176,6 +184,7 @@ It's worth noting that Oracle labs has historically allowed some remote work (�
 * Makers of Coverity 
 
 ## [Theobroma Systems](https://www.theobroma-systems.com/careers/)
+🗺 _Vienna_
 
 * Compiler support for ARM SoC
 
