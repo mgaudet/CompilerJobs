@@ -74,7 +74,7 @@ Innumerable projects, but off the top of my head:
 * .NET 
 * [Checked C](https://github.com/Microsoft/checkedc) 
 
-## [Mozilla](https://careers.mozilla.org/listings/)
+## [Mozilla](https://careers.mozilla.org/listings/) 📤
 
 * Rust compiler development
 * [SpiderMonkey development](spidermonkey.dev)
