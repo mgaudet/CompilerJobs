@@ -115,6 +115,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * .NET 
 * [Checked C](https://github.com/Microsoft/checkedc) 
 * TypeScript
+* JVM
 
 ## [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
 
