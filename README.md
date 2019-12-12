@@ -140,6 +140,8 @@ As well as some other IBM internal compilers, and LLVM projects.
 * OpenJDK, including the hotspot compiler
 * [GraalVM](https://www.graalvm.org/)
 
+It's worth noting that Oracle labs has historically allowed some remote work (📤). 
+
 ## [PGI](https://www.pgroup.com/about/jobs.htm) 
 
 * PGI's compilers 
