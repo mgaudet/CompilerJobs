@@ -145,6 +145,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 * LLVM 
 * GPU Compiler
 
+## [Red Hat](https://www.redhat.com/en/jobs)
+
+* GCC 
+* JVM (OpenJDK)
+
 ## [SAP](https://jobs.sap.com/) 
 
 * JVM
