@@ -77,6 +77,7 @@ Innumerable projects, but off the top of my head:
 * LLVM
 
 ## [IBM](https://www.ibm.com/employment/)
+🗺 _Markham, Ontario, Canada_ 
 
 * Eclipse [OMR](https://github.com/eclipse/omr) & [OpenJ9](https://github.com/eclipse/openj9)
 * [XLC](https://www.ibm.com/us-en/marketplace/ibm-c-and-c-plus-plus-compiler-family)
@@ -94,6 +95,9 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
 
 ## [Jane Street](https://www.janestreet.com/join-jane-street/apply/)
+🗺 _New York_
+
+🗺 _London_
 
 * [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/) 
 
@@ -106,6 +110,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Julia
 
 ## [MediaTek](https://www.mediatek.com/careers/careers)
+🗺 _Woburn, MA, USA_
 
 * Compiler development for MediaTek chips
 
@@ -143,6 +148,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 It's worth noting that Oracle labs has historically allowed some remote work (📤). 
 
 ## [PGI](https://www.pgroup.com/about/jobs.htm) 
+🗺 _Portland_ 
 
 * PGI's compilers 
 * [Flang](https://github.com/flang-compiler/flang), a Fortran frontend for LLVM
