@@ -10,7 +10,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * 📤: Remote Work Supported
 
-# Companies 
+# Companies (38) 
 
 ## [Amazon](https://www.amazon.jobs)
 
