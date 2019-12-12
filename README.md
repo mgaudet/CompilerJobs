@@ -90,6 +90,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * OCaml
 
+## Intel
+
+* [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers)
+* [Intel FPGA OpenCL compiler](https://www.intel.ca/content/www/ca/en/software/programmable/sdk-for-opencl/overview.html)
+
 ## [Igalia](https://www.igalia.com/jobs/) 📤
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
@@ -108,10 +113,6 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Julia Computing](https://juliacomputing.com/communication/jobs)
 
 * Julia
-
-## Intel
-
-* [Intel FPGA OpenCL compiler](https://www.intel.ca/content/www/ca/en/software/programmable/sdk-for-opencl/overview.html)
 
 ## [Marvell](https://www.marvell.com/company/careers/)
 
