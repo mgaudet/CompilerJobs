@@ -12,6 +12,11 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 # Companies 
 
+## [Amazon](https://www.amazon.jobs)
+
+* [Corretto](https://aws.amazon.com/corretto/)
+* [Inferentia](https://aws.amazon.com/machine-learning/inferentia/)
+
 ## [AMD](https://jobs.amd.com/)
 
  * [AOCC](https://developer.amd.com/amd-aocc/)
