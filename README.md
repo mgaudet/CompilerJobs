@@ -159,6 +159,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * JVM
 
+## [Stripe](https://stripe.com/jobs)
+
+* [Sorbet type checker for Ruby](https://github.com/sorbet/sorbet)
+
 ## [Synopsys](https://www.synopsys.com/company/synopsys-careers.html)
 
 * Makers of Coverity 
