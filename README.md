@@ -172,6 +172,11 @@ It's worth noting that Oracle labs has historically allowed some remote work (ðŸ
 * GCC 
 * JVM (OpenJDK)
 
+## [Samsung](https://www.samsung.com/us/careers/)
+ðŸ—º _San Jose_
+
+* JIT Compiler for Samsung GPU (OpenGL-ES, OpenCL) 
+
 ## [SAP](https://jobs.sap.com/) 
 
 * JVM
