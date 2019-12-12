@@ -158,6 +158,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * LLVM 
 * TI specific compiler toolchains
 
+## [Twitter](https://careers.twitter.com/)
+
+* JVM/Graal
+
 ## [Untether.ai](https://jobs.lever.co/untether) 
 
 Building machine learning hardware
