@@ -10,7 +10,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * 📤: Remote Work Supported
 
-# Companies (38) 
+# Companies (39) 
 
 ## [Amazon](https://www.amazon.jobs)
 
@@ -113,6 +113,14 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Julia Computing](https://juliacomputing.com/communication/jobs)
 
 * Julia
+
+## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html)
+🗺 _Nantick, MA, USA_
+
+* MATLAB
+* Simulink
+* [HDL Coder](https://www.mathworks.com/products/hdl-coder.html) 
+* LLVM
 
 ## [Marvell](https://www.marvell.com/company/careers/)
 
