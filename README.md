@@ -10,7 +10,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * 📤: Remote Work Supported
 
-# Companies (39) 
+# Companies (40) 
 
 ## [Amazon](https://www.amazon.jobs)
 
@@ -49,6 +49,10 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * C/C++ compilers
 * D compiler
+
+## [Ericsson](https://www.ericsson.com/en/careers)
+
+* Erlang
 
 ## [Facebook](https://www.facebook.com/careers/jobs/)
 
