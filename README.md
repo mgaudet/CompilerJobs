@@ -160,9 +160,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Oracle](https://www.oracle.com/corporate/careers/) 
 
 * OpenJDK, including the hotspot compiler
-* [GraalVM](https://www.graalvm.org/)
 
-It's worth noting that Oracle labs has historically allowed some remote work (📤). 
+🗺 _Zurich_, _Linz_, _California_, _Prague_, _Brno_, _Lviv_, _Casablanca_, _Belgrade_, _Remote_ (📤)
+
+* [GraalVM](https://www.graalvm.org/) (also [internships](https://www.graalvm.org/community/internship/))
 
 ## [PGI](https://www.pgroup.com/about/jobs.htm) 
 🗺 _Portland_ 
