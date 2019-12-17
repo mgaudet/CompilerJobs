@@ -99,7 +99,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * OCaml
 
-## Intel
+## [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers)
 * [Intel FPGA OpenCL compiler](https://www.intel.ca/content/www/ca/en/software/programmable/sdk-for-opencl/overview.html)
