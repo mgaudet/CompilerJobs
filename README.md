@@ -10,7 +10,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * 📤: Remote Work Supported
 
-# Companies (40) 
+# Companies (42) 
 
 ## [Amazon](https://www.amazon.jobs)
 
@@ -74,6 +74,11 @@ Innumerable projects, but off the top of my head:
 * [V8](https://v8.dev/)
 * [Dart](https://dart.dev/)
 * [MLIR](https://www.tensorflow.org/mlir)
+
+## [Groq](https://groq.com/careers/)
+🗺 _Portland, Mountain View_ 
+
+* Machine Learning Hardware compilers
 
 ## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
 
