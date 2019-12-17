@@ -10,7 +10,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * 📤: Remote Work Supported
 
-# Companies (42) 
+# Companies (44) 
 
 ## [Amazon](https://www.amazon.jobs)
 
@@ -179,6 +179,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * PGI's compilers 
 * [Flang](https://github.com/flang-compiler/flang), a Fortran frontend for LLVM
+
+## [Quadric](https://quadric.io/#join-the-team)
+🗺 _Burlingame, CA_
+
+ * LLVM development for Quadric platform
 
 ## [Qualcomm](https://www.qualcomm.com/company/careers)
 
