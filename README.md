@@ -194,6 +194,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * JVM
 
+## [Silexica](https://www.silexica.com/careers/)
+🗺 _Cologne_
+
+* Heterogenous architecture development
+
 ## [Stripe](https://stripe.com/jobs)
 
 * [Sorbet type checker for Ruby](https://github.com/sorbet/sorbet)
