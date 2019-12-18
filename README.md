@@ -10,7 +10,8 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * 📤: Remote Work Supported
 
-# Companies (44) 
+# Companies (<i id="count"></i>)
+
 
 ## [Amazon](https://www.amazon.jobs)
 
@@ -240,3 +241,9 @@ Building machine learning hardware
 ## [WindRiver](https://www.windriver.com/careers/)
 
 * Compilers for VxWorks
+
+<script>
+var h2s = document.querySelectorAll("h2");
+var count = document.querySelector("#count");
+count.innerHTML = h2s.length ;
+</script>
