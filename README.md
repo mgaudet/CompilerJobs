@@ -12,6 +12,9 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 # Companies (<i id="count"></i>)
 
+## [Aicas](https://www.aicas.com/cms/en/jobs)
+
+* Real-time JVM
 
 ## [Amazon](https://www.amazon.jobs)
 
@@ -75,6 +78,10 @@ Innumerable projects, but off the top of my head:
 * [V8](https://v8.dev/)
 * [Dart](https://dart.dev/)
 * [MLIR](https://www.tensorflow.org/mlir)
+
+## [Greenhills](https://www.ghs.com/jobs.html)
+
+* Certified C/C++ for Embedded
 
 ## [Groq](https://groq.com/careers/)
 🗺 _Portland, Mountain View_ 
@@ -201,7 +208,9 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [SAP](https://jobs.sap.com/) 
 
+* ABAP
 * JVM
+* Node.js
 
 ## [Silexica](https://www.silexica.com/careers/)
 🗺 _Cologne_
