@@ -42,6 +42,10 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
+## [Codeplay](https://www.codeplay.com/company/careers/)
+
+* Clang, LLVM, LLDB
+
 ## [DataChemist](https://www.datachemist.com/company/our-team)
 
 * WOQL Compiler
