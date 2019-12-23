@@ -176,6 +176,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Rust compiler development
 * [SpiderMonkey development](https://spidermonkey.dev)
+* [Cranelift](https://github.com/bytecodealliance/cranelift) 
 
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
 
