@@ -14,7 +14,7 @@ As far as things are known, these companies offer remote work opportunities.
 
 ##### 🧑‍🎓: Internships offered
 
-These companies are known to have offered internships in compiler, languages and runtimes. 
+These companies are known to have offered internships or co-ops in compiler, languages and runtimes. 
 
 
 # Companies (<i id="count"></i>)
