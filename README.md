@@ -8,7 +8,14 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 #### Annotations: 
 
-* 📤: Remote Work Supported
+##### 📤: Remote Work Supported
+
+As far as things are known, these companies offer remote work opportunities. 
+
+##### 🧑‍🎓: Internships offered
+
+These companies are known to have offered internships in compiler, languages and runtimes. 
+
 
 # Companies (<i id="count"></i>)
 
