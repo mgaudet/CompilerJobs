@@ -109,7 +109,7 @@ Innumerable projects, but off the top of my head:
 * Research and Development work in compilers and runtime systems.
 * LLVM
 
-## [IBM](https://www.ibm.com/employment/)
+## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
 🗺 _Markham, Ontario, Canada_ 
 
 * Eclipse [OMR](https://github.com/eclipse/omr) & [OpenJ9](https://github.com/eclipse/openj9)
@@ -179,7 +179,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Haskell,
 * probably other things too.
 
-## [Mozilla](https://careers.mozilla.org/listings/) 📤
+## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
 * Rust compiler development
 * [SpiderMonkey development](https://spidermonkey.dev)
