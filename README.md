@@ -266,6 +266,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 Building machine learning hardware
 
+## [Weta Digital](https://careers.wetafx.co.nz/)
+🗺 _Wellington, NZ_ 
+
+* Shader Language development 
+* LLVM 
+
 ## [WhatsApp](https://www.whatsapp.com/join)
 
 * Erlang
