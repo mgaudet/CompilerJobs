@@ -185,7 +185,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [SpiderMonkey development](https://spidermonkey.dev)
 * [Cranelift](https://github.com/bytecodealliance/cranelift) 
 
-## [Nintendo]
+## [Nintendo](https://careers.nintendo.com/job-openings/)
 🗺 _Redmond, WA_ 
 
 * Compiler engineering
