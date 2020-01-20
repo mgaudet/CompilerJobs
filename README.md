@@ -19,7 +19,7 @@ These companies are known to have offered internships or co-ops in compiler, lan
 
 # Companies (<i id="count"></i>)
 
-## [Aicas](https://www.aicas.com/cms/en/jobs)
+## [Aicas](https://www.aicas.com/cms/en/careers)
 
 * Real-time JVM
 
