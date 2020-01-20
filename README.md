@@ -16,10 +16,15 @@ As far as things are known, these companies offer remote work opportunities.
 
 These companies are known to have offered internships or co-ops in compiler, languages and runtimes. 
 
+##### 🗺 : Location
+
+Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive! 
 
 # Companies (<i id="count"></i>)
 
 ## [Aicas](https://www.aicas.com/cms/en/careers)
+
+🗺  _Karlsruhe, Germany_
 
 * Real-time JVM
 
