@@ -75,6 +75,13 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * Python
 * [MyPy](http://mypy-lang.org/about.html)
 
+## [emmtrix Technologies](https://www.emmtrix.com/jobs) 🧑‍🎓
+🗺  _Karlsruhe, Germany_
+
+* Source-to-source compilers
+* Static analysis (LLVM)
+* Parallelizing transformations
+
 ## [Ericsson](https://www.ericsson.com/en/careers)
 
 * Erlang
