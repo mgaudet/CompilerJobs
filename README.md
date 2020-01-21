@@ -297,8 +297,3 @@ Building machine learning hardware
 
 * Compilers for VxWorks
 
-<script>
-var h2s = document.querySelectorAll("h2");
-var count = document.querySelector("#count");
-count.innerHTML = h2s.length ;
-</script>
