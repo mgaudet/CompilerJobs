@@ -296,9 +296,3 @@ Building machine learning hardware
 ## [WindRiver](https://www.windriver.com/careers/)
 
 * Compilers for VxWorks
-
-<script>
-var h2s = document.querySelectorAll("h2");
-var count = document.querySelector("#count");
-count.innerHTML = h2s.length ;
-</script>

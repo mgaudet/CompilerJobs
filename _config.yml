@@ -1,1 +1,5 @@
 # theme: jekyll-theme-midnight
+
+# We're using index.md to allow us to keep the dynamic count script separate.
+readme_index:
+  enabled:          false
