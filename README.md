@@ -215,10 +215,15 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [GraalVM](https://www.graalvm.org/) (also [internships](https://www.graalvm.org/community/internship/))
 
 ## [PGI](https://www.pgroup.com/about/jobs.htm) 
-🗺 _Portland_ 
+🗺 _Portland_
 
 * PGI's compilers 
 * [Flang](https://github.com/flang-compiler/flang), a Fortran frontend for LLVM
+
+## [Prophecy.io](https://angel.co/company/prophecy-io/jobs)
+🗺 _San Fransisco_
+
+* Scala + Spark engineering (Query optimizer)
 
 ## [Quadric](https://quadric.io/#join-the-team)
 🗺 _Burlingame, CA_
