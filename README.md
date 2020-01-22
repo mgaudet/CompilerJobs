@@ -61,7 +61,7 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Clang, LLVM, LLDB
 
-## [CompilerWorks](http://http://www.compilerworks.com/about.html#jobs)
+## [CompilerWorks](http://www.compilerworks.com/about.html#jobs)
 
 🗺 _SF Bay Area HQ_
 
