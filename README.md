@@ -248,6 +248,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 * GCC 
 * JVM (OpenJDK)
 
+## [Resevoir Labs](https://www.reservoir.com/company/careers/) 📤 🧑‍🎓
+
+* LLVM
+* Polyhedral compilation
+
 ## [Samsung](https://www.samsung.com/us/careers/)
 🗺 _San Jose_
 
