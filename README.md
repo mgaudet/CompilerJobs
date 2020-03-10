@@ -243,6 +243,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * LLVM 
 * GPU Compiler
 
+## [Quarkslab](https://quarkslab.com/careers/) 
+🗺 _Paris, France_ (remote available within France)
+* A security product built on LLVM
+
 ## [R2C](https://r2c.dev/) 📤
 🗺 _San Fransisco, CA_
 
