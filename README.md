@@ -216,6 +216,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler engineering
 
+## [Nuvia](https://nuviainc.com/careers) 📤
+
+* Toolchain development (LLVM, GCC)
+
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
 
 * LLVM 
