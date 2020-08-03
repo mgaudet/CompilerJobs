@@ -53,6 +53,12 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * Java Virtual Machine
 * Falcon JIT compiler (LLVM)
 
+## [Bodo](https://angel.co/company/bodoai) 📤
+
+🗺 _Pittsburgh, PA_ 
+
+* Python, LLVM 
+
 ## [Cloudflare](https://www.cloudflare.com/careers/)
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
