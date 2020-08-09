@@ -283,6 +283,13 @@ As well as some other IBM internal compilers, and LLVM projects.
 * JVM
 * Node.js
 
+## [Shopify](https://www.shopify.com/careers)
+
+* Ruby
+* Static analysis and typing
+* Interpreters, garbage collectors
+* JVM, Truffle, Graal
+
 ## [Silexica](https://www.silexica.com/careers/)
 🗺 _Cologne_
 
