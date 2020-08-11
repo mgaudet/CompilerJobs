@@ -165,6 +165,8 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Jetbrains](https://www.jetbrains.com/careers/apply/)
 
+🗺 _Saint Petersburg, Russia_
+
 * Kotlin
 
 ## [Julia Computing](https://juliacomputing.com/communication/jobs)
