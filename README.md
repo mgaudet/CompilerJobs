@@ -321,6 +321,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * LLVM 
 * TI specific compiler toolchains
 
+## [Trail of Bits](https://www.trailofbits.com/)
+
+Security firm that has [compiler engineering work](https://www.trailofbits.com/expertise/compiler-engineering/)
+
 ## [Twitter](https://careers.twitter.com/)
 
 * JVM/Graal
