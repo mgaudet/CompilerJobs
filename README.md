@@ -59,6 +59,11 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Python, LLVM 
 
+## [Cerebras](https://cerebras.net/careers/)
+🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
+
+* LLVM and more
+
 ## [Cloudflare](https://www.cloudflare.com/careers/)
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
