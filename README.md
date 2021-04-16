@@ -279,7 +279,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * LLVM
 * Polyhedral compilation
 
-## [Runtime Verification[(https://runtimeverification.com/careers/compiler-engineer/) 📤
+## [Runtime Verification](https://runtimeverification.com/careers/compiler-engineer/) 📤
 
 * K Framework 
 
