@@ -320,6 +320,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Makers of Coverity 
 
+## [Synthetic Minds](https://www.workatastartup.com/jobs/44386) 📤
+
+* Working on Program Synthesis 
+
 ## [Theobroma Systems](https://careers.theobroma-systems.com/jobs/)
 🗺 _Vienna_
 
