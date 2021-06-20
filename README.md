@@ -301,6 +301,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Interpreters, garbage collectors
 * JVM, Truffle, Graal
 
+## [SiFive](https://www.sifive.com/jobs) 
+🗺 _San Mateo, California_
+
+* LLVM, MIR
+
 ## [Silexica](https://www.silexica.com/careers/)
 🗺 _Cologne_
 
