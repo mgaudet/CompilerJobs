@@ -302,7 +302,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * JVM, Truffle, Graal
 
 ## [SiFive](https://www.sifive.com/jobs) 
-🗺 _San Mateo, California_
+🗺 _San Mateo, California, Hsinchu Taiwan_
 
 * LLVM, MIR
 
