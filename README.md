@@ -143,6 +143,12 @@ Innumerable projects, but off the top of my head:
 * [Dart](https://dart.dev/)
 * [MLIR](https://www.tensorflow.org/mlir)
 
+## [GrammaTech](https://www.grammatech.com/careers) 📤 (US only)
+🗺 _Ithica, NY_
+
+* [CodeSonar](https://www.grammatech.com/products/source-code-analysis), a static analysis tool
+* [CodeSentry](https://www.grammatech.com/codesentry-sca), a binary analysis tool
+
 ## [Graphcore](https://www.graphcore.ai/jobs)
 🗺 _Bristol, Cambridge, UK_
 
