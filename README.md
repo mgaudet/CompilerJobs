@@ -72,6 +72,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Clang, LLVM, LLDB
 
+## [Compiler Tool Chain Consulting Services](https://compiler-toolchain-for.me/careers) 📤
+
+* Custom LLVM-based compiler toolchains for clients
+
 ## [CompilerWorks](https://www.compilerworks.com/about/#Careers)
 
 🗺 _SF Bay Area HQ_
