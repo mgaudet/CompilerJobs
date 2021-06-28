@@ -183,6 +183,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Julia
 
+## [Lokad](https://www.lokad.com/jobs-senior-compilation-engineer)
+🗺 _Paris, France_
+
+* DSL compiler for [supply chain optimisation](http://blog.lokad.com/journal/2016/9/26/will-compilation-save-supply-chains)
+
 ## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html)
 🗺 _Nantick, MA, USA_
 
