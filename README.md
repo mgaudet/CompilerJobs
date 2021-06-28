@@ -270,6 +270,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [SpiderMonkey development](https://spidermonkey.dev)
 * [Cranelift](https://github.com/bytecodealliance/cranelift) 
 
+## [Mythic](https://www.mythic-ai.com/join/)
+🗺 _SF Bay Area, CA_
+
+* Machine learning hardware compilers
+
 ## [Nintendo](https://careers.nintendo.com/job-openings/)
 🗺 _Redmond, WA_ 
 
