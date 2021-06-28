@@ -105,6 +105,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * Static analysis (LLVM)
 * Parallelizing transformations
 
+## [Epic Games](https://www.epicgames.com/site/en-US/careers)
+
+* DSL compiler and toolchain for game development
+
 ## [Ericsson](https://www.ericsson.com/en/careers)
 
 * Erlang
