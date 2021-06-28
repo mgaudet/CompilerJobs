@@ -393,6 +393,10 @@ Security firm that has [compiler engineering work](https://www.trailofbits.com/e
 
 Building machine learning hardware
 
+## [Wasmer](https://www.workatastartup.com/jobs/15822)
+
+* WebAssembly runtime (LLVM)
+
 ## [Weta Digital](https://careers.wetafx.co.nz/)
 🗺 _Wellington, NZ_ 
 
