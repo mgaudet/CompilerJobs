@@ -192,6 +192,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Kotlin
 
+## [JITX](https://www.jitx.com/careers) 📤
+🗺 _SF Bay Area, CA_
+
+* DSL to generate circuit board designs
+
 ## [Julia Computing](https://juliacomputing.com/communication/jobs)
 
 * Julia
