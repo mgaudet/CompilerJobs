@@ -33,6 +33,11 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * [Corretto](https://aws.amazon.com/corretto/)
 * [Inferentia](https://aws.amazon.com/machine-learning/inferentia/)
 
+## [Ambarella](https://www.ambarella.com/)
+🗺 _Santa Clara, CA_
+
+* Computer vision AI hardware compiler
+
 ## [AMD](https://jobs.amd.com/)
 
  * [AOCC](https://developer.amd.com/amd-aocc/)
