@@ -353,6 +353,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Heterogenous architecture development
 
+## [Solana](https://jobs.solana.com/)
+
+* Solang, a compiler for Solidity that targets WebAssembly and BPF
+
 ## [STMicroelectronics](https://www.st.com/content/st_com/en/about/careers/careers.html) 
 🗺 _Grenoble, France_
 
