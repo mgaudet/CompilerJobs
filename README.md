@@ -133,6 +133,10 @@ A variety of projects, a limited subset of which I know about below.
 
 * Aquamarine, a distributed choreography language & platform
 
+## [GitHub](https://github.com/about/careers) 📤
+
+* [CodeQL](https://securitylab.github.com/tools/codeql/), a query language for writing custom static analysis rules
+
 ## [Google](https://careers.google.com/)
 
 Innumerable projects, but off the top of my head: 
