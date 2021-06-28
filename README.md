@@ -308,6 +308,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * JVM
 * Node.js
 
+## [SEGGER](https://www.segger.com/about-us/job-offers/) 📤
+
+* [Clang-based compiler specialised for embedded development](https://blog.segger.com/the-segger-compiler/)
+
 ## [Shopify](https://www.shopify.com/careers)
 
 * Ruby
