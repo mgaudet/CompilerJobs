@@ -326,6 +326,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * [Clang-based compiler specialised for embedded development](https://blog.segger.com/the-segger-compiler/)
 
+## [Semantic Designs](http://www.semdesigns.com/Careers/)
+🗺 _Austin, TX_
+
+* [DMS](http://www.semdesigns.com/Products/DMS/index.html), a suite of program transformation tools for large scale software systems
+* [PARLANSE](http://www.semdesigns.com/Products/Parlanse/index.html), a parallel programming language
+
 ## [Shopify](https://www.shopify.com/careers)
 
 * Ruby
