@@ -421,6 +421,11 @@ Building machine learning hardware
 
 * WebAssembly runtime (LLVM)
 
+## [Waymo](https://waymo.com/careers/)
+🗺 _Mountain View, CA_
+
+* Machine learning hardware compiler
+
 ## [Weta Digital](https://careers.wetafx.co.nz/)
 🗺 _Wellington, NZ_ 
 
