@@ -243,6 +243,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * [GraalVM](https://www.graalvm.org/) (also [internships](https://www.graalvm.org/community/internship/))
 
+## [Pensando](https://recruiterflow.com/Pensando-Systems/jobs)
+🗺 _Milpitas, CA_
+
+* P4 compiler targetting the Capri processor (LLVM)
+
 ## [PGI](https://www.pgroup.com/about/jobs.htm) 
 🗺 _Portland_
 
