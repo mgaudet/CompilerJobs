@@ -116,6 +116,10 @@ A variety of projects, a limited subset of which I know about below.
 
 * [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
 
+## [Fluence Labs](https://fluence.network/join.html) 📤
+
+* Aquamarine, a distributed choreography language & platform
+
 ## [Google](https://careers.google.com/)
 
 Innumerable projects, but off the top of my head: 
