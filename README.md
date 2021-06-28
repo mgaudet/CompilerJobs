@@ -225,6 +225,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Julia
 
+## [Lightmatter](https://lightmatter.co/people/join-us/)
+
+* Machine learning hardware compilers
+
 ## [Lokad](https://www.lokad.com/jobs-senior-compilation-engineer)
 🗺 _Paris, France_
 
