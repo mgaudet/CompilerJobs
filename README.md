@@ -144,6 +144,11 @@ Innumerable projects, but off the top of my head:
 
 * Machine Learning Hardware compilers
 
+## [Guardsquare](https://www.guardsquare.com/careers)
+🗺 _Leuven, Belgium_
+
+* LLVM-based software protection and hardening
+
 ## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
 
 * Research and Development work in compilers and runtime systems.
