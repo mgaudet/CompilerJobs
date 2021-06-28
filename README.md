@@ -126,6 +126,11 @@ Innumerable projects, but off the top of my head:
 * [Dart](https://dart.dev/)
 * [MLIR](https://www.tensorflow.org/mlir)
 
+## [Graphcore](https://www.graphcore.ai/jobs)
+🗺 _Bristol, Cambridge, UK_
+
+* Machine learning hardware compiler (LLVM)
+
 ## [Greenhills](https://www.ghs.com/jobs.html)
 
 * Certified C/C++ for Embedded
