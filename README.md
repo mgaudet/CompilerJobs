@@ -114,6 +114,11 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * DSL compiler and toolchain for game development
 
+## [Espressif](https://www.espressif.com/en/join-us/job-search) 📤
+🗺  _Brno, Czechia_
+
+* GNU GCC, GDB, Binutils development for Xtensa and other architectures.
+
 ## [Ericsson](https://www.ericsson.com/en/careers)
 
 * Erlang
