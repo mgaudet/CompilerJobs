@@ -103,6 +103,11 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * Python
 * [MyPy](http://mypy-lang.org/about.html)
 
+## [Edgecortix](https://www.edgecortix.com/)
+🗺  _Tokyo, Japan_
+
+* Machine learning hardware compilers
+
 ## [emmtrix Technologies](https://www.emmtrix.com/jobs) 🧑‍🎓
 🗺  _Karlsruhe, Germany_
 
