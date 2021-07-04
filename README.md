@@ -423,6 +423,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Working on Program Synthesis 
 
+## [Tenstorrent](https://tenstorrent.com/careers/)
+🗺 _Toronto, ON_
+
+* Machine learning hardware compilers
+
 ## [Theobroma Systems](https://careers.theobroma-systems.com/jobs/)
 🗺 _Vienna_
 
