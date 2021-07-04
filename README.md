@@ -488,3 +488,8 @@ Building machine learning hardware
 ## [WindRiver](https://www.windriver.com/careers/)
 
 * Compilers for VxWorks
+
+## [Zoox](https://zoox.com/careers/)
+🗺 _Foster City, CA_
+
+* Program analysis tools for verifying firmware
