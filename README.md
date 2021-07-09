@@ -182,6 +182,11 @@ Innumerable projects, but off the top of my head:
 
 * LLVM-based software protection and hardening
 
+## [Horizon Quantum Computing](https://horizonquantum.applytojob.com/) 
+🗺 _Singapore_
+
+* Quantum computing compiler
+
 ## [HPE](https://careers.hpe.com/jobs)
 
 * [Chapel](https://chapel-lang.org/)
