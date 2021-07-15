@@ -53,6 +53,11 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Multiple teams supporting the ARM ISA. 
 
+## [Ascenium](https://www.ascenium.com/careers)
+🗺 _Campbell, CA_, _Stavanger and Oslo, Norway_
+
+* LLVM and Hardware codesign. 
+
 ## [Azul](https://www.azul.com/careers-at-azul-systems/) 📤
 
 * Java Virtual Machine
