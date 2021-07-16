@@ -324,6 +324,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * [GraalVM](https://www.graalvm.org/) (also [internships](https://www.graalvm.org/community/internship/))
 
+## [Partisa](https://partisia.com/careers/)
+🗺 _Aarhus, Denmark_ 
+
+* Creating a language for multi-party computation. 
+
 ## [Pensando](https://recruiterflow.com/Pensando-Systems/jobs)
 🗺 _Milpitas, CA_
 
