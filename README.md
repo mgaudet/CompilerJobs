@@ -508,6 +508,11 @@ Building machine learning hardware
 
 * Compilers for VxWorks
 
+## [Xilinx](https://careers.xilinx.com/)
+🗺 _Cologne, Germany_
+
+* Compiler for FPGA Systems 
+
 ## [Zoox](https://zoox.com/careers/)
 🗺 _Foster City, CA_
 
