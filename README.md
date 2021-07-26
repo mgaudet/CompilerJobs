@@ -202,7 +202,7 @@ Innumerable projects, but off the top of my head:
 * Research and Development work in compilers and runtime systems.
 * LLVM
 
-## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
+ ## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
 🗺 _Markham, Ontario, Canada_ 
 
 * Eclipse [OMR](https://github.com/eclipse/omr) & [OpenJ9](https://github.com/eclipse/openj9)
@@ -241,9 +241,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * DSL to generate circuit board designs
 
-## [Julia Computing](https://juliacomputing.com/communication/jobs)
+## [Julia Computing](https://juliacomputing.com/communication/jobs) 📤🧑‍🎓
+🗺 _Boston, MA_ 
 
-* Julia
+* Development of [Julia](https://julialang.org/)
 
 ## [Lightmatter](https://lightmatter.co/people/join-us/)
 
