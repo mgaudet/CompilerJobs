@@ -82,6 +82,13 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Clang, LLVM, LLDB
 
+## [Columbia University - Data Science Institute](https://apply.interfolio.com/91828)
+🗺  _New York City_
+
+* Building languages for probabilistic programming and causal reasoning.
+* Static/Dynamic analyses and code transformation.
+* Julia oriented.
+
 ## [Compiler Tool Chain Consulting Services](https://compiler-toolchain-for.me/careers) 📤
 
 * Custom LLVM-based compiler toolchains for clients
