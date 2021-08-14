@@ -278,7 +278,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 🗺  _Moscow, Russia_
 
 * [LCC](http://www.mcst.ru/lcc) optimizing compiler for MCST's chips
-* Binary translator from x86 to own ISA Elbrus
+* Binary translator from x86 to own Elbrus ISA
 
 ## [MediaTek](https://www.mediatek.com/careers/careers)
 🗺 _Woburn, MA, USA_
