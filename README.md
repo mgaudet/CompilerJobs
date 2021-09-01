@@ -466,6 +466,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Machine learning hardware compilers
 
+
+## [TetraMem](https://www.linkedin.com/jobs/view/compiler-software-engineer-at-tetramem-2468046997?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+🗺 _SF Bay Area_
+
+* Machine learning hardware compilers, LLVM
+
 ## [Theobroma Systems](https://careers.theobroma-systems.com/jobs/)
 🗺 _Vienna_
 
