@@ -42,6 +42,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
  * [AOCC](https://developer.amd.com/amd-aocc/)
 
+## [Ampere Computing](https://amperecomputing.com/apply/)
+
+* Work on OpenJDK 
+
 ## [Apple](https://www.apple.com/jobs/)
 
 * LLVM 
