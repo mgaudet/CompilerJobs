@@ -487,9 +487,9 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compilers for mobile platforms
 
-## [Trail of Bits](https://www.trailofbits.com/) 📤 🧑‍🎓
+## [Trail of Bits](https://www.trailofbits.com/careers) 📤 🧑‍🎓
 
-Security firm that has [compiler engineering work](https://www.trailofbits.com/expertise/compiler-engineering/)
+Security firm that does [compiler engineering and research](https://www.trailofbits.com/services/research-and-development)
 
 ## [Twitter](https://careers.twitter.com/)
 
