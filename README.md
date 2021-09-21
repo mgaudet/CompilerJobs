@@ -537,6 +537,14 @@ Building machine learning hardware
 
 * Compiler for FPGA Systems 
 
+## [YoYo Games](https://www.yoyogames.com/en/jobs) 📤
+🗺 _Dundee, Scotland_
+
+* LLVM
+* GML (GameMaker Language) compiler
+* JavaScript compiler
+* Integrated Development Environment targeting desktop, web, mobile and games console environments
+
 ## [Zoox](https://zoox.com/careers/)
 🗺 _Foster City, CA_
 
