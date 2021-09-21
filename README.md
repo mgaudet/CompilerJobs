@@ -401,6 +401,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Embedded scripting languages for the Roblox game engine
 
+## [Rome](https://rome.tools/)
+
+* [Building developer tooling for JavaScript in Rust](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)
+
 ## [Runtime Verification](https://runtimeverification.com/careers/compiler-engineer/) 📤
 
 * K Framework 
