@@ -434,7 +434,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler technology used for application security.
 
-## [Shopify](https://www.shopify.com/careers)
+## [Shopify](https://www.shopify.com/careers) 📤
 
 * Ruby
 * Static analysis and typing
