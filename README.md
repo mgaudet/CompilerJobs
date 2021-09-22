@@ -430,7 +430,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [DMS](http://www.semdesigns.com/Products/DMS/index.html), a suite of program transformation tools for large scale software systems
 * [PARLANSE](http://www.semdesigns.com/Products/Parlanse/index.html), a parallel programming language
 
-## [ShiftLeft](https://www.shiftleft.io/)
+## [ShiftLeft](https://www.shiftleft.io/) 📤
 
 * Compiler technology used for application security.
 
