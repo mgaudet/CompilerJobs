@@ -10,7 +10,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 ##### 📤: Remote Work Supported
 
-As far as things are known, these companies offer remote work opportunities. 
+As far as things are known, these companies offer remote work opportunities.
 
 ##### 🧑‍🎓: Internships offered
 
@@ -140,6 +140,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * Static analysis (LLVM)
 * Parallelizing transformations
 
+## [Enso](https://www.ycombinator.com/companies/enso)
+
+* Compiler for visual programming language, JIT based on Graal/Truffle.
+
 ## [Epic Games](https://www.epicgames.com/site/en-US/careers)
 
 * DSL compiler and toolchain for game development
@@ -200,7 +204,7 @@ Innumerable projects, but off the top of my head:
 * Certified C/C++ for Embedded
 
 ## [Groq](https://groq.com/careers/)
-🗺 _Portland, Mountain View_ 
+🗺 _Portland, Mountain View, Toronto_ 
 
 * Machine Learning Hardware compilers
 
@@ -237,7 +241,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Inria](https://www.inria.fr/en/)
 
-* OCaml
+* OCaml, Coq
 
 ## [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 
@@ -248,7 +252,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
 
-## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 📤
+## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 🧑‍🎓
 🗺 _New York, London_
 
 * [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/) 
@@ -286,6 +290,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * DSL compiler for [supply chain optimisation](http://blog.lokad.com/journal/2016/9/26/will-compilation-save-supply-chains)
 
+## [Lynx Tool](https://lynxtool.com/careers)
+
+* Compiler for a visual programming language.
+
 ## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html)
 🗺 _Natick, MA, USA_
 
@@ -316,15 +324,14 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Microsoft](https://careers.microsoft.com/)
 
 * MSVC
-* C# and .NET 
+* C#, F#
 * [Checked C](https://github.com/Microsoft/checkedc) 
 * TypeScript
 * JVM
-* F#
 
 ## [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
 
-* Haskell, Koka, Lean, F* (F-star)
+* Koka, Lean, F* (F-star)
 * probably other things too.
 
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
