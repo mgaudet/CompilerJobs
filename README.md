@@ -526,6 +526,10 @@ Building machine learning hardware
 
 * Machine learning hardware compiler
 
+## [Well-Typed](https://www.well-typed.com/)
+
+* Glasgow Haskell Compiler (GHC)
+
 ## [Weta Digital](https://careers.wetafx.co.nz/)
 🗺 _Wellington, NZ_ 
 
