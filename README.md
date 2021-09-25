@@ -44,11 +44,16 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 ## [Ampere Computing](https://amperecomputing.com/apply/)
 
-* Work on OpenJDK 
+* Work on OpenJDK
 
-## [Apple](https://www.apple.com/jobs/)
+## [Anaconda](https://www.anaconda.com/careers)
 
-* LLVM 
+* [Pyston](https://www.anaconda.com/blog/pyston-team-joins-anaconda): General-purpose Python JIT originally developed at Dropbox
+
+## [Apple](https://www.apple.com/jobs/) 🧑‍🎓 
+🗺 _Cupertino, CA_
+
+* Clang and LLVM
 * Swift
 * JSC (JavaScript interpreter created as part of WebKit)
 * Static Analysis tooling
@@ -158,6 +163,7 @@ A variety of projects, a limited subset of which I know about below.
 ## [Fastly](https://www.fastly.com/about/careers)
 
 * [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
+* [VCL](https://developer.fastly.com/reference/vcl/)
 
 ## [Fluence Labs](https://fluence.network/join.html) 📤
 
@@ -167,7 +173,8 @@ A variety of projects, a limited subset of which I know about below.
 
 * [CodeQL](https://securitylab.github.com/tools/codeql/), a query language for writing custom static analysis rules
 
-## [Google](https://careers.google.com/)
+## [Google](https://careers.google.com/) 📤
+🗺 _Mountain View, CA and Seattle, WA_
 
 Innumerable projects, but off the top of my head: 
 
@@ -216,6 +223,7 @@ Innumerable projects, but off the top of my head:
 
 * Research and Development work in compilers and runtime systems.
 * LLVM
+* Rust
 
  ## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
 🗺 _Markham, Ontario, Canada_ 
@@ -240,7 +248,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Contractor that has done work on SpiderMonkey, V8, JSC and more. 
 
-## [Jane Street](https://www.janestreet.com/join-jane-street/apply/)
+## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 📤
 🗺 _New York, London_
 
 * [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/) 
@@ -279,7 +287,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * DSL compiler for [supply chain optimisation](http://blog.lokad.com/journal/2016/9/26/will-compilation-save-supply-chains)
 
 ## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html)
-🗺 _Nantick, MA, USA_
+🗺 _Natick, MA, USA_
 
 * MATLAB
 * Simulink
@@ -308,14 +316,15 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Microsoft](https://careers.microsoft.com/)
 
 * MSVC
-* .NET 
+* C# and .NET 
 * [Checked C](https://github.com/Microsoft/checkedc) 
 * TypeScript
 * JVM
+* F#
 
 ## [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
 
-* Haskell,
+* Haskell, Koka, Lean, F* (F-star)
 * probably other things too.
 
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
@@ -456,7 +465,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [SiFive](https://www.sifive.com/jobs) 
 🗺 _San Mateo, California, Hsinchu Taiwan_
 
-* LLVM, MIR
+* LLVM, MLIR
 
 ## [Silexica](https://www.silexica.com/careers/)
 🗺 _Cologne_
@@ -476,6 +485,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Stripe](https://stripe.com/jobs)
 
 * [Sorbet type checker for Ruby](https://github.com/sorbet/sorbet)
+* [LLVM-based AOT compiler for Ruby](https://twitter.com/penelope_zone/status/1410652824422260738?s=20)
 
 ## [Synopsys](https://www.synopsys.com/company/synopsys-careers.html)
 
@@ -561,6 +571,11 @@ Building machine learning hardware
 
 * Wolfram language, WolframAlpha, Mathematica
 * Modelica
+
+## [Woven Planet](https://jobs.lever.co/woven-planet/)
+🗺 _Tokyo, Japan_
+
+* Static analysis and developer tools for vehicle software.
 
 ## [Xilinx](https://careers.xilinx.com/)
 🗺 _Cologne, Germany_
