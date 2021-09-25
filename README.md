@@ -526,7 +526,7 @@ Building machine learning hardware
 
 * Machine learning hardware compiler
 
-## [Well-Typed](https://www.well-typed.com/)
+## [Well-Typed](https://www.well-typed.com/) 📤
 
 * Glasgow Haskell Compiler (GHC)
 
