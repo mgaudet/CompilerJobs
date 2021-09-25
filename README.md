@@ -119,6 +119,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * Python
 * [MyPy](http://mypy-lang.org/about.html)
 
+## [Dyalog](https://www.dyalog.com/careers.htm)
+
+* Dyalog APL
+
 ## [Edgecortix](https://www.edgecortix.com/)
 🗺  _Tokyo, Japan_
 
@@ -252,10 +256,18 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * DSL to generate circuit board designs
 
+## [Jsoftware](https://www.jsoftware.com/#/contact)
+
+* J programming language
+
 ## [Julia Computing](https://juliacomputing.com/communication/jobs) 📤🧑‍🎓
 🗺 _Boston, MA_ 
 
 * Development of [Julia](https://julialang.org/)
+
+## [Kx Systems](https://kx.com/about/careers/)
+
+* K programming language
 
 ## [Lightmatter](https://lightmatter.co/people/join-us/)
 
@@ -539,6 +551,12 @@ Building machine learning hardware
 ## [WindRiver](https://www.windriver.com/careers/)
 
 * Compilers for VxWorks
+
+## [Wolfram Research](https://www.wolfram.com/company/careers/)
+🗺 _Linköping, Sweden_
+
+* Wolfram language, WolframAlpha, Mathematica
+* Modelica
 
 ## [Xilinx](https://careers.xilinx.com/)
 🗺 _Cologne, Germany_
