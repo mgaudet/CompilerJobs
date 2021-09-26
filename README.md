@@ -91,6 +91,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Clang, LLVM, LLDB
 
+## [Cognitect](https://www.cognitect.com/careers.html)
+
+* Clojure and ClojureScript
+
 ## [Columbia University - Data Science Institute](https://apply.interfolio.com/91828)
 🗺  _New York City_
 
@@ -109,6 +113,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 📤 [map of locations](https://www.google.com/maps/d/u/0/viewer?mid=1QWGEbJNna8TipgJZpYRYqCUNDsj3cqzT&ll=-3.81666561775622e-14%2C-9.286491447135973&z=1)
 
 * Many SQL dialects and supporting languages
+
+## [DashBit](https://dashbit.co/)
+
+* Elixir
 
 ## [DataChemist](https://www.datachemist.com/company/our-team)
 
@@ -350,13 +358,22 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler engineering
 
+## [NoRedInk](https://www.noredink.com/jobs)
+
+* Elm
+* [Roc](https://www.roc-lang.org/)
+
 ## [Nuvia](https://nuviainc.com/careers) 📤
 
 * Toolchain development (LLVM, GCC)
 
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
 
-* LLVM 
+* LLVM
+
+## [OCaml Labs](https://ocamllabs.io/) 📤
+
+* OCaml compiler and runtime
 
 ## [OctoML](https://octoml.ai/company/careers/) 📤
 
@@ -447,6 +464,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * ABAP
 * JVM
 * Node.js
+
+## [Scala Center](https://scala.epfl.ch/)
+
+* Scala compiler (JVM, Scala.js, Scala native), editor integration and tooling
 
 ## [SEGGER](https://www.segger.com/about-us/job-offers/) 📤
 
