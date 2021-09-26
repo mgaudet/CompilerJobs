@@ -32,6 +32,7 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * [Corretto](https://aws.amazon.com/corretto/)
 * [Inferentia](https://aws.amazon.com/machine-learning/inferentia/)
+* [Rust](https://aws.amazon.com/blogs/opensource/how-our-aws-rust-team-will-contribute-to-rusts-future-successes/)
 
 ## [Ambarella](https://www.ambarella.com/)
 🗺 _Santa Clara, CA_
