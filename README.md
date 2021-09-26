@@ -358,11 +358,6 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler engineering
 
-## [NoRedInk](https://www.noredink.com/jobs)
-
-* Elm
-* [Roc](https://www.roc-lang.org/)
-
 ## [Nuvia](https://nuviainc.com/careers) 📤
 
 * Toolchain development (LLVM, GCC)
