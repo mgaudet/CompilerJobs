@@ -248,7 +248,7 @@ Innumerable projects, but off the top of my head:
 
 As well as some other IBM internal compilers, and LLVM projects. 
 
-## [Immunant](https://immunant.com/jobs/)
+## [Immunant](https://immunant.com/jobs/) 📤
 
 * Builds [the C2Rust translator](https://github.com/immunant/c2rust)
 
