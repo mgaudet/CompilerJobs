@@ -96,8 +96,13 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Clojure and ClojureScript
 
+## [Coherent Logix](https://www.coherentlogix.com/careers/)📤
+🗺 _Austin, TX_
+
+* Building an LLVM based C compiler for Coherent Logix's multicore chip.
+
 ## [Columbia University - Data Science Institute](https://apply.interfolio.com/91828)
-🗺  _New York City_
+🗺 _New York City_
 
 * Building languages for probabilistic programming and causal reasoning.
 * Static/Dynamic analyses and code transformation.
