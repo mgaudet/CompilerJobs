@@ -178,6 +178,11 @@ A variety of projects, a limited subset of which I know about below.
 * [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
 * [VCL](https://developer.fastly.com/reference/vcl/)
 
+## [Fathom Radiant](https://fathomradiant.co/careers)
+🗺 _Boulder, CO_
+
+* ML Compiler work
+
 ## [Fluence Labs](https://fluence.network/join.html) 📤
 
 * Aquamarine, a distributed choreography language & platform
