@@ -397,6 +397,13 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * [GraalVM](https://www.graalvm.org/) (also [internships](https://www.graalvm.org/community/internship/))
 
+## [Oso](https://www.osohq.com/company/jobs) 📤
+
+🗺 *New York, US / Remote (US/Europe)*
+
+* [Polar](https://docs.osohq.com/learn/polar-foundations.html): a logic programming language for
+  expressing authorization logic and policies.
+
 ## [Partisa](https://partisia.com/careers/)
 🗺 _Aarhus, Denmark_ 
 
