@@ -458,6 +458,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * LLVM
 * Polyhedral compilation
 
+## [Rigetti Computing](https://www.rigetti.com/careers) 📤
+
+* Quantum Computing Compiler (LLVM + Rust)
+
 ## [Roblox](https://corp.roblox.com/careers/)
 🗺 _San Mateo, CA_
 
