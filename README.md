@@ -621,6 +621,11 @@ Building machine learning hardware
 * Wolfram language, WolframAlpha, Mathematica
 * Modelica
 
+## [Workday](https://www.workday.com/en-us/company/careers/overview.html)
+🗺 _Pleasanton, CA_
+
+* Compiler, runtime and IDE for Workday's proprietary programming languages, XpressO and YP
+
 ## [Woven Planet](https://jobs.lever.co/woven-planet/)
 🗺 _Tokyo, Japan_
 
