@@ -228,9 +228,12 @@ Innumerable projects, but off the top of my head:
 * Machine Learning Hardware compilers
 
 ## [Guardsquare](https://www.guardsquare.com/careers)
-🗺 _Leuven, Belgium_
+🗺 _Leuven, Belgium / Munich, Germany_
 
+* ProGuard
 * LLVM-based software protection and hardening
+* Android application protection and hardening
+* Mobile application security testing
 
 ## [Horizon Quantum Computing](https://horizonquantum.applytojob.com/) 
 🗺 _Singapore_
