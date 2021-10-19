@@ -376,6 +376,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler engineering
 
+## [Nod](https://nod.ai/careers/) 📤
+
+* Compiler improvements for AI workloads. 
+* Python and C++
+* LLVM / MLIR / PyTorch
+
 ## [Nuvia](https://nuviainc.com/careers) 📤
 
 * Toolchain development (LLVM, GCC)
