@@ -474,7 +474,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Roblox](https://corp.roblox.com/careers/)
 🗺 _San Mateo, CA_
 
-* Embedded scripting languages for the Roblox game engine
+* Embedded scripting languages for the Roblox game engine, for example [Luau](https://luau-lang.org/)
 
 ## [Rome](https://rome.tools/) 📤
 
