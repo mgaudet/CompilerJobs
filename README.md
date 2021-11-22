@@ -22,6 +22,14 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 # Companies (<i id="count"></i>)
 
+## [AdaCore](https://www.adacore.com/company/careers) 📤 🧑‍🎓
+
+🗺 _New York (US), Paris & Grenoble & Toulouse & Vannes (France), Bristol (UK), Tallinn (Estonia)_
+
+* Ada runtimes and front-ends ([GNAT](https://github.com/gcc-mirror/gcc/tree/master/gcc/ada), [libadalang](https://github.com/AdaCore/libadalang)).
+* Back-ends to said front-ends ([GCC](https://gcc.gnu.org/), [LLVM](https://github.com/AdaCore/gnat-llvm), [Infer](https://github.com/facebook/infer), [Why3](https://github.com/AdaCore/spark2014)...).
+* Various custom languages (e.g. [langkit](https://github.com/AdaCore/langkit), [gprbuild](https://github.com/AdaCore/gprbuild), [recordflux](https://github.com/Componolit/RecordFlux)...).
+
 ## [Aicas](https://www.aicas.com/cms/en/careers)
 
 🗺  _Karlsruhe, Germany_
