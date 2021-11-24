@@ -488,7 +488,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * [Building developer tooling for JavaScript in Rust](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)
 
-## [Runtime Verification](https://runtimeverification.com/careers/compiler-engineer/) 📤
+## [Runtime Verification](https://runtimeverification.com/careers/) 📤
 
 * K Framework 
 
