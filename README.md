@@ -189,6 +189,7 @@ A variety of projects, a limited subset of which I know about below.
 ## [Fastly](https://www.fastly.com/about/careers)
 
 * [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
+* [Cranelift](https://github.com/bytecodealliance/cranelift) 
 * [VCL](https://developer.fastly.com/reference/vcl/)
 
 ## [Fathom Radiant](https://fathomradiant.co/careers)
@@ -372,7 +373,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Rust compiler development
 * [SpiderMonkey development](https://spidermonkey.dev)
-* [Cranelift](https://github.com/bytecodealliance/cranelift) 
+
 
 ## [Mythic](https://www.mythic-ai.com/join/)
 🗺 _SF Bay Area, CA_
