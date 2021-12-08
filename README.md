@@ -547,6 +547,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Solang, a compiler for Solidity that targets WebAssembly and BPF
 
+## [Sony](https://www.sonyjobs.com/find-a-job.html)
+🗺 _Bangalore, India_
+
+* LLVM Compiler Development
+
 ## [STMicroelectronics](https://www.st.com/content/st_com/en/about/careers/careers.html) 
 🗺 _Grenoble, France_
 
