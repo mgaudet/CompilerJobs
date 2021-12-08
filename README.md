@@ -402,6 +402,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * OCaml compiler and runtime
 
+## [Octasic](http://www.octasic.com/careers/#openings)
+🗺 _Montreal, QC, Canada_ 
+
+* Compilers for Octasic’s multi-core digital signal processors (LLVM) 
+
 ## [OctoML](https://octoml.ai/company/careers/) 📤
 
 * [Apache TVM](https://tvm.apache.org/)
