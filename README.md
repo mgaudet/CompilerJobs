@@ -136,6 +136,11 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * WOQL Compiler
 
+## [Dfinity](https://dfinity.org/)
+🗺  _Zurich, Switzerland HQ_
+
+* Motoko programming language and system for blockchain smartcontracts.
+
 ## [Digital Mars](https://digitalmars.com/)
 
 * C/C++ compilers
