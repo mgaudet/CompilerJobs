@@ -397,7 +397,6 @@ As well as some other IBM internal compilers, and LLVM projects.
 * LLVM / MLIR / PyTorch
 
 ## [Nomic Labs](https://www.notion.so/Nomic-Labs-jobs-991b37c547554f75b89a95f437fd5056#631ae440339f432096933cdccee17b98) 📤
-🗺 _unknown, jobs are remote_
 
 * Ethereum ecosystem such as Hardhat and Solidity
 
