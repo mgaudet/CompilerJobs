@@ -317,7 +317,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Development of [Julia](https://julialang.org/)
 
-## [Klara](https://klarasystems.com/careers/)
+## [Klara](https://klarasystems.com/careers/) 📤
 
 * LLVM for ARM on FreeBSD
 
