@@ -378,6 +378,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Koka, Lean, F* (F-star)
 * probably other things too.
 
+## [Modular](https://www.modular.ai/careers) 📤
+
+* Building AI tooling.
+
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
 * Rust compiler development
