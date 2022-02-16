@@ -584,6 +584,13 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [Sorbet type checker for Ruby](https://github.com/sorbet/sorbet)
 * [LLVM-based AOT compiler for Ruby](https://twitter.com/penelope_zone/status/1410652824422260738?s=20)
 
+## [Styra](https://www.styra.com/careers) 📤
+🗺 _US, Canada, Europe_
+
+* Makers of [Open Policy Agent](https://www.openpolicyagent.org/)
+  and the datalog-derived logic programming language Rego.
+* Interpreters, compiler (e.g. compiling Rego to Wasm), and applications of static analysis.
+
 ## [Synopsys](https://www.synopsys.com/company/synopsys-careers.html)
 
 * Makers of Coverity 
