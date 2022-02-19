@@ -568,6 +568,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Solang, a compiler for Solidity that targets WebAssembly and BPF
 
+## [Sonatype](https://www.sonatype.com/company/careers) 📤
+🗺 _US, Canada, Colombia_
+
+* [Sonatype Lift](https://www.sonatype.com/products/sonatype-lift), a code quality analysis platform
+
 ## [Sony](https://www.sonyjobs.com/find-a-job.html)
 🗺 _Bangalore, India_
 
