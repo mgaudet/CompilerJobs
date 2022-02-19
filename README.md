@@ -644,6 +644,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 Security firm that does [compiler engineering and research](https://www.trailofbits.com/services/research-and-development)
 
+## [TrustInSoft](https://trust-in-soft.com/trustinsoft-careers/)
+🗺 _San Francisco, Paris_
+
+* [TrustInSoft Analyzer](https://trust-in-soft.com/product-c-and-c-source-code-analyzer/), a source code verification tool for C and C++
+
 ## [Twitter](https://careers.twitter.com/)
 
 * JVM/Graal
