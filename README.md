@@ -463,6 +463,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 * PGI's compilers 
 * [Flang](https://github.com/flang-compiler/flang), a Fortran frontend for LLVM
 
+## [Praetorian](https://www.praetorian.com/company/careers/) 📤
+🗺 _US_
+
+* [Chariot Source Code](https://www.praetorian.com/chariot/source-code/), a static analysis tool that exists as part of the Chariot platform
+
 ## [Prophecy.io](https://angel.co/company/prophecy-io/jobs)
 🗺 _San Fransisco_
 
