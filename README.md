@@ -128,6 +128,11 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Many SQL dialects and supporting languages
 
+## [Crowdstrike](https://www.crowdstrike.com/careers/) 📤
+🗺  _US, Canada_
+
+* The Sensor and Language Tooling (SaLT) team works on a DSL to script Falcon's threat detection sensor
+
 ## [DashBit](https://dashbit.co/)
 
 * Elixir
