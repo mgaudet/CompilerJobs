@@ -424,6 +424,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * LLVM
 
+## [NXP](https://www.nxp.com/company/about-nxp/careers:CAREERS)
+
+* LLVM
+
 ## [OCaml Labs](https://ocamllabs.io/) 📤
 
 * OCaml compiler and runtime
