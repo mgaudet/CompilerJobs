@@ -278,7 +278,11 @@ Innumerable projects, but off the top of my head:
 * [XL Fortran](https://www.ibm.com/us-en/marketplace/xl-fortran-linux-compiler-power)
 * [IBM Cobol](https://www.ibm.com/us-en/marketplace/ibm-cobol) 
 
-As well as some other IBM internal compilers, and LLVM projects. 
+As well as some other IBM internal compilers, and LLVM projects.
+
+## [Imagination Technologies](https://www.imaginationtech.com/careers/vacancies/)
+
+* LLVM middle/back-ends
 
 ## [Immunant](https://immunant.com/jobs/) 📤
 
