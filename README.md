@@ -297,9 +297,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers)
 * [Intel FPGA OpenCL compiler](https://www.intel.ca/content/www/ca/en/software/programmable/sdk-for-opencl/overview.html)
 
-## [Igalia](https://www.igalia.com/jobs/) 📤
+## [Igalia](https://www.igalia.com/jobs/) 📤🧑‍🎓
+🗺 _A Coruña, Galicia, Spain / Worldwide_
 
-* Contractor that has done work on SpiderMonkey, V8, JSC and more. 
+* Consultancy which is heavily involved in free and open source software, and the web platform. Known in compilers circles for work work on scripting engines (SpiderMonkey, V8, JSC), as well as LLVM and Guile.
 
 ## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 🧑‍🎓
 🗺 _New York, London_
