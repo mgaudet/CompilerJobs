@@ -300,7 +300,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Igalia](https://www.igalia.com/jobs/) 📤🧑‍🎓
 🗺 _A Coruña, Galicia, Spain / Worldwide_
 
-* Consultancy which is heavily involved in free and open source software, and the web platform. Known in compilers circles for work work on scripting engines (SpiderMonkey, V8, JSC), as well as LLVM and Guile.
+* Consultancy which is heavily involved in free and open source software, and the web platform. Known in compilers circles for work on scripting engines (SpiderMonkey, V8, JSC), as well as LLVM and Guile.
 
 ## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 🧑‍🎓
 🗺 _New York, London_
