@@ -537,6 +537,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * K Framework 
 
+## [Sambanova](https://sambanova.ai/careers/)
+
+* Deep Learning Compiler (MLIR)
+* Place & Route (PNR)
+
 ## [Samsung](https://www.samsung.com/us/careers/)
 🗺 _San Jose_
 
