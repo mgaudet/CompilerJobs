@@ -4,9 +4,9 @@ A listing of compiler, language and runtime teams for people looking for jobs in
 
 In Scope: Teams that work on language implementations, compilers for languages, language runtimes, static analysis, etc.
 
-[**Please contribute:**](https://github.com/mgaudet/CompilerJobs/pulls) _Pass on projects, teams, companies I've missed!_
+[**Please contribute:**](https://github.com/mgaudet/CompilerJobs/pulls) _Pass on projects, teams, companies I've missed!_ 
 
-#### Annotations:
+#### Annotations: 
 
 ##### 📤: Remote Work Supported
 
@@ -14,11 +14,11 @@ As far as things are known, these companies offer remote work opportunities.
 
 ##### 🧑‍🎓: Internships offered
 
-These companies are known to have offered internships or co-ops in compiler, languages and runtimes.
+These companies are known to have offered internships or co-ops in compiler, languages and runtimes. 
 
 ##### 🗺 : Location
 
-Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive!
+Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive! 
 
 # Companies (<i id="count"></i>)
 
@@ -59,7 +59,7 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * [Pyston](https://www.anaconda.com/blog/pyston-team-joins-anaconda): General-purpose Python JIT originally developed at Dropbox
 
-## [Apple](https://www.apple.com/jobs/) 🧑‍🎓
+## [Apple](https://www.apple.com/jobs/) 🧑‍🎓 
 🗺 _Cupertino, CA_
 
 * Clang and LLVM
@@ -69,12 +69,12 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 ## [ARM](https://www.arm.com/company/careers)
 
-* Multiple teams supporting the ARM ISA.
+* Multiple teams supporting the ARM ISA. 
 
 ## [Ascenium](https://www.ascenium.com/careers)
 🗺 _Campbell, CA_, _Stavanger and Oslo, Norway_
 
-* LLVM and Hardware codesign.
+* LLVM and Hardware codesign. 
 
 ## [Azul](https://www.azul.com/careers-at-azul-systems/) 📤
 
@@ -83,9 +83,9 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 ## [Bodo](https://angel.co/company/bodoai) 📤
 
-🗺 _Pittsburgh, PA_
+🗺 _Pittsburgh, PA_ 
 
-* Python, LLVM
+* Python, LLVM 
 
 ## [Cerebras](https://cerebras.net/careers/)
 🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
@@ -151,7 +151,7 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * C/C++ compilers
 * D compiler
 
-## [Dropbox](https://www.dropbox.com/jobs)
+## [Dropbox](https://www.dropbox.com/jobs) 
 
 * Python
 * [MyPy](http://mypy-lang.org/about.html)
@@ -191,15 +191,15 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 ## [Facebook](https://www.facebook.com/careers/jobs/)
 
-A variety of projects, a limited subset of which I know about below.
+A variety of projects, a limited subset of which I know about below. 
 
 * [PyTorch](https://pytorch.org/)
 * [HHVM](https://hhvm.com/)
 
 ## [Fastly](https://www.fastly.com/about/careers)
 
-* [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.
-* [Cranelift](https://github.com/bytecodealliance/cranelift)
+* [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
+* [Cranelift](https://github.com/bytecodealliance/cranelift) 
 * [VCL](https://developer.fastly.com/reference/vcl/)
 
 ## [Fathom Radiant](https://fathomradiant.co/careers)
@@ -218,7 +218,7 @@ A variety of projects, a limited subset of which I know about below.
 ## [Google](https://careers.google.com/) 📤
 🗺 _Mountain View, CA and Seattle, WA_
 
-Innumerable projects, but off the top of my head:
+Innumerable projects, but off the top of my head: 
 
 * [Go](https://golang.org/)
 * LLVM contributions
@@ -242,7 +242,7 @@ Innumerable projects, but off the top of my head:
 * Certified C/C++ for Embedded
 
 ## [Groq](https://groq.com/careers/)
-🗺 _Portland, Mountain View, Toronto_
+🗺 _Portland, Mountain View, Toronto_ 
 
 * Machine Learning Hardware compilers
 
@@ -254,7 +254,7 @@ Innumerable projects, but off the top of my head:
 * Android application protection and hardening
 * Mobile application security testing
 
-## [Horizon Quantum Computing](https://horizonquantum.applytojob.com/)
+## [Horizon Quantum Computing](https://horizonquantum.applytojob.com/) 
 🗺 _Singapore_
 
 * Quantum computing compiler
@@ -264,19 +264,19 @@ Innumerable projects, but off the top of my head:
 * [Chapel](https://chapel-lang.org/)
 * Cray Programming Environment, a suite of Fortran, C and C++ compilers
 
-## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers)
+## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
 
 * Research and Development work in compilers and runtime systems.
 * LLVM
 * Rust
 
  ## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
-🗺 _Markham, Ontario, Canada_
+🗺 _Markham, Ontario, Canada_ 
 
 * Eclipse [OMR](https://github.com/eclipse/omr) & [OpenJ9](https://github.com/eclipse/openj9)
 * [XLC](https://www.ibm.com/us-en/marketplace/ibm-c-and-c-plus-plus-compiler-family)
 * [XL Fortran](https://www.ibm.com/us-en/marketplace/xl-fortran-linux-compiler-power)
-* [IBM Cobol](https://www.ibm.com/us-en/marketplace/ibm-cobol)
+* [IBM Cobol](https://www.ibm.com/us-en/marketplace/ibm-cobol) 
 
 As well as some other IBM internal compilers, and LLVM projects.
 
@@ -305,7 +305,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 🧑‍🎓
 🗺 _New York, London_
 
-* [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/)
+* [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/) 
 
 ## [Jetbrains](https://www.jetbrains.com/careers/apply/)
 
@@ -323,7 +323,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * J programming language
 
 ## [Julia Computing](https://juliacomputing.com/communication/jobs) 📤🧑‍🎓
-🗺 _Boston, MA_
+🗺 _Boston, MA_ 
 
 * Development of [Julia](https://julialang.org/)
 
@@ -353,7 +353,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * MATLAB
 * Simulink
-* [HDL Coder](https://www.mathworks.com/products/hdl-coder.html)
+* [HDL Coder](https://www.mathworks.com/products/hdl-coder.html) 
 * LLVM
 
 ## [Marvell](https://www.marvell.com/company/careers/)
@@ -373,13 +373,13 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Microchip](https://careers.microchip.com/)
 
-* Compiler development for Microchip's chips.
+* Compiler development for Microchip's chips. 
 
 ## [Microsoft](https://careers.microsoft.com/)
 
 * MSVC
 * C#, F#
-* [Checked C](https://github.com/Microsoft/checkedc)
+* [Checked C](https://github.com/Microsoft/checkedc) 
 * TypeScript
 * JVM
 
@@ -392,7 +392,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Building AI tooling.
 
-## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓
+## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
 * Rust compiler development
 * [SpiderMonkey development](https://spidermonkey.dev)
@@ -407,13 +407,13 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Machine learning hardware compilers
 
 ## [Nintendo](https://careers.nintendo.com/job-openings/)
-🗺 _Redmond, WA_
+🗺 _Redmond, WA_ 
 
 * Compiler engineering
 
 ## [Nod](https://nod.ai/careers/) 📤
 
-* Compiler improvements for AI workloads.
+* Compiler improvements for AI workloads. 
 * Python and C++
 * LLVM / MLIR / PyTorch
 
@@ -425,7 +425,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Toolchain development (LLVM, GCC)
 
-## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/)
+## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
 
 * LLVM
 
@@ -438,15 +438,15 @@ As well as some other IBM internal compilers, and LLVM projects.
 * OCaml compiler and runtime
 
 ## [Octasic](http://www.octasic.com/careers/#openings)
-🗺 _Montreal, QC, Canada_
+🗺 _Montreal, QC, Canada_ 
 
-* Compilers for Octasic’s multi-core digital signal processors (LLVM)
+* Compilers for Octasic’s multi-core digital signal processors (LLVM) 
 
 ## [OctoML](https://octoml.ai/company/careers/) 📤
 
 * [Apache TVM](https://tvm.apache.org/)
 
-## [Oracle](https://www.oracle.com/corporate/careers/)
+## [Oracle](https://www.oracle.com/corporate/careers/) 
 
 * OpenJDK, including the hotspot compiler
 
@@ -462,19 +462,19 @@ As well as some other IBM internal compilers, and LLVM projects.
   expressing authorization logic and policies.
 
 ## [Partisa](https://partisia.com/careers/)
-🗺 _Aarhus, Denmark_
+🗺 _Aarhus, Denmark_ 
 
-* Creating a language for multi-party computation.
+* Creating a language for multi-party computation. 
 
 ## [Pensando](https://recruiterflow.com/Pensando-Systems/jobs)
 🗺 _Milpitas, CA_
 
 * P4 compiler targetting the Capri processor (LLVM)
 
-## [PGI](https://www.pgroup.com/about/jobs.htm)
+## [PGI](https://www.pgroup.com/about/jobs.htm) 
 🗺 _Portland_
 
-* PGI's compilers
+* PGI's compilers 
 * [Flang](https://github.com/flang-compiler/flang), a Fortran frontend for LLVM
 
 ## [Praetorian](https://www.praetorian.com/company/careers/) 📤
@@ -494,10 +494,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Qualcomm](https://www.qualcomm.com/company/careers)
 
-* LLVM
+* LLVM 
 * GPU Compiler
 
-## [Quarkslab](https://quarkslab.com/careers/)
+## [Quarkslab](https://quarkslab.com/careers/) 
 🗺 _Paris, France_ (remote available within France)
 * A security product built on LLVM
 
@@ -512,7 +512,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Red Hat](https://www.redhat.com/en/jobs)
 
-* GCC
+* GCC 
 * JVM (OpenJDK)
 
 ## [Resevoir Labs](https://www.reservoir.com/company/careers/) 📤 🧑‍🎓
@@ -535,19 +535,14 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Runtime Verification](https://runtimeverification.com/careers/) 📤
 
-* K Framework
-
-## [Sambanova](https://sambanova.ai/careers/)
-
-* Deep Learning Compiler (MLIR)
-* Place & Route (PNR)
+* K Framework 
 
 ## [Samsung](https://www.samsung.com/us/careers/)
 🗺 _San Jose_
 
-* JIT Compiler for Samsung GPU (OpenGL-ES, OpenCL)
+* JIT Compiler for Samsung GPU (OpenGL-ES, OpenCL) 
 
-## [SAP](https://jobs.sap.com/)
+## [SAP](https://jobs.sap.com/) 
 
 * ABAP
 * JVM
@@ -578,7 +573,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Interpreters, garbage collectors
 * JVM, Truffle, Graal
 
-## [SiFive](https://www.sifive.com/jobs)
+## [SiFive](https://www.sifive.com/jobs) 
 🗺 _San Mateo, California, Hsinchu Taiwan_
 
 * LLVM, MLIR
@@ -602,7 +597,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * LLVM Compiler Development
 
-## [STMicroelectronics](https://www.st.com/content/st_com/en/about/careers/careers.html)
+## [STMicroelectronics](https://www.st.com/content/st_com/en/about/careers/careers.html) 
 🗺 _Grenoble, France_
 
 * Support for STMicroelectronic products
@@ -622,11 +617,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Synopsys](https://www.synopsys.com/company/synopsys-careers.html)
 
-* Makers of Coverity
+* Makers of Coverity 
 
 ## [Synthetic Minds](https://www.workatastartup.com/jobs/44386) 📤
 
-* Working on Program Synthesis
+* Working on Program Synthesis 
 
 ## [Tenstorrent](https://tenstorrent.com/careers/)
 🗺 _Toronto, ON_
@@ -644,9 +639,9 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler support for ARM SoC
 
-## [TI](https://careers.ti.com/)
+## [TI](https://careers.ti.com/) 
 
-* LLVM
+* LLVM 
 * TI specific compiler toolchains
 
 ## [TikTok](https://careers.tiktok.com/)
@@ -673,7 +668,7 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 * Mono
 * IL2CPP, a compiler to convert .NET IL to C++
 
-## [Untether.ai](https://jobs.lever.co/untether)
+## [Untether.ai](https://jobs.lever.co/untether) 
 
 Building machine learning hardware
 
@@ -691,10 +686,10 @@ Building machine learning hardware
 * Glasgow Haskell Compiler (GHC)
 
 ## [Weta Digital](https://careers.wetafx.co.nz/)
-🗺 _Wellington, NZ_
+🗺 _Wellington, NZ_ 
 
-* Shader Language development
-* LLVM
+* Shader Language development 
+* LLVM 
 
 ## [WhatsApp](https://www.whatsapp.com/join)
 
@@ -723,7 +718,7 @@ Building machine learning hardware
 ## [Xilinx](https://careers.xilinx.com/)
 🗺 _Cologne, Germany_
 
-* Compiler for FPGA Systems
+* Compiler for FPGA Systems 
 
 ## [YoYo Games](https://www.yoyogames.com/en/jobs) 📤
 🗺 _Dundee, Scotland_
