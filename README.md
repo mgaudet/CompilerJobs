@@ -446,6 +446,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * [Apache TVM](https://tvm.apache.org/)
 
+## [OpenAI](https://openai.com/careers/)
+🗺 _San Fransisco_
+
+* [Triton](https://github.com/openai/triton), a language and compiler for writing highly efficient custom Deep-Learning primitives
+
 ## [Oracle](https://www.oracle.com/corporate/careers/) 
 
 * OpenJDK, including the hotspot compiler
