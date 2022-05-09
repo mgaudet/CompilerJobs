@@ -512,14 +512,14 @@ As well as some other IBM internal compilers, and LLVM projects.
 🗺 _Paris, France_ (remote available within France)
 * A security product built on LLVM
 
-## [Radix Labs](https://www.radix.bio/careers) 📤
-
-* DSL for optimising biotech procedures and executing them in a physical biology lab
-
 ## [R2C](https://r2c.dev/) 📤
 🗺 _San Fransisco, CA_
 
 * Program analysis tools
+
+## [Radix Labs](https://www.radix.bio/careers) 📤
+
+* DSL for optimising biotech procedures and executing them in a physical biology lab
 
 ## [Red Hat](https://www.redhat.com/en/jobs)
 
