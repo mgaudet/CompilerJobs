@@ -87,6 +87,12 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Python, LLVM 
 
+## [Broad Institute](https://broadinstitute.wd1.myworkdayjobs.com/broad_institute)
+
+🗺 _Cambridge, MA_
+
+* Building the [Hail](https://hail.is/) project for genomics, including a custom language and compiler. 
+
 ## [Cerebras](https://cerebras.net/careers/)
 🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
 
