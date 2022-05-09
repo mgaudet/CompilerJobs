@@ -20,7 +20,7 @@ These companies are known to have offered internships or co-ops in compiler, lan
 
 Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive! 
 
-# Companies (<i id="count"></i>)
+# Companies (<i id="count"></i> )
 
 ## [AdaCore](https://www.adacore.com/company/careers) 📤 🧑‍🎓
 
