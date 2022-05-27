@@ -171,6 +171,12 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * Machine learning hardware compilers
 
+## [Embecosm](https://www.embecosm.com/about/careers/)
+🗺 _Southampton, UK,  Nürnberg, Germany_ 
+
+* Open Source toolchain development, with a primary focus on GCC, LLVM and Verilator.
+
+
 ## [emmtrix Technologies](https://www.emmtrix.com/jobs) 🧑‍🎓
 🗺  _Karlsruhe, Germany_
 
