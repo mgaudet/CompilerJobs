@@ -398,6 +398,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [Checked C](https://github.com/Microsoft/checkedc) 
 * TypeScript
 * JVM
+* Rust Compiler
 
 ## [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
 
