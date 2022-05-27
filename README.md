@@ -276,7 +276,7 @@ Innumerable projects, but off the top of my head:
 * LLVM
 * Rust
 
- ## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
+## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
 🗺 _Markham, Ontario, Canada_ 
 
 * Eclipse [OMR](https://github.com/eclipse/omr) & [OpenJ9](https://github.com/eclipse/openj9)
