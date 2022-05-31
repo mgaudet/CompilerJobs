@@ -387,6 +387,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler development for MediaTek chips
 
+## [Micron](https://www.micron.com/careers)
+
+* Deep Learning Compiler
+
 ## [Microchip](https://careers.microchip.com/)
 
 * Compiler development for Microchip's chips. 
