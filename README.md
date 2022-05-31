@@ -59,6 +59,12 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 * [Pyston](https://www.anaconda.com/blog/pyston-team-joins-anaconda): General-purpose Python JIT originally developed at Dropbox
 
+## [Anyon Systems](https://anyonsys.com/)
+🗺 _Toronto / Markham, Canada_
+
+* Quantum Compiler Development
+* MLIR/LLVM
+
 ## [Apple](https://www.apple.com/jobs/) 🧑‍🎓 
 🗺 _Cupertino, CA_
 
