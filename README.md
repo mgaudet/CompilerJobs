@@ -619,6 +619,16 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Interpreters, garbage collectors
 * JVM, Truffle, Graal
 
+## [Siemens](https://new.siemens.com/global/en/company/jobs.html)
+🗺 _A number of locations_
+
+A number of Compiler/PL projects: 
+
+* HDL Compilers
+* DSL Compilers
+* Industrial Automation Compilation
+
+
 ## [SiFive](https://www.sifive.com/jobs) 
 🗺 _San Mateo, California, Hsinchu Taiwan_
 
@@ -628,6 +638,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 🗺 _Cologne_
 
 * Heterogenous architecture development
+
 
 ## [Solana](https://jobs.solana.com/)
 
