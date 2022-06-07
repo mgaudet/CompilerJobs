@@ -50,6 +50,7 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 ## [AMD](https://jobs.amd.com/)
 
  * [AOCC](https://developer.amd.com/amd-aocc/)
+ * [ROCm](https://rocmdocs.amd.com/en/latest/)
 
 ## [Ampere Computing](https://amperecomputing.com/apply/)
 
