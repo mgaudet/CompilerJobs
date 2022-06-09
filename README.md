@@ -287,7 +287,7 @@ Innumerable projects, but off the top of my head:
 
 * Quantum computing compiler
 
-## [HPE](https://careers.hpe.com/jobs)
+## [HPE](https://careers.hpe.com/jobs) 📤🧑‍🎓
 
 * [Chapel](https://chapel-lang.org/)
 * Cray Programming Environment, a suite of Fortran, C and C++ compilers
