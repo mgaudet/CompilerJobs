@@ -22,6 +22,10 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 # Companies (<i id="count"></i> )
 
+## [Access Softek Toolchains](https://www.softek-toolchains.com/careers)
+
+* LLVM Toolchain Development 
+
 ## [AdaCore](https://www.adacore.com/company/careers) 📤 🧑‍🎓
 
 🗺 _New York (US), Paris & Grenoble & Toulouse & Vannes (France), Bristol (UK), Tallinn (Estonia)_
