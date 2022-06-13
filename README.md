@@ -22,7 +22,7 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 
 # Companies (<i id="count"></i> )
 
-## [Access Softek Toolchains](https://www.softek-toolchains.com/careers)
+## [Access Softek Toolchains](https://www.softek-toolchains.com/careers) 📤
 
 * LLVM Toolchain Development 
 
