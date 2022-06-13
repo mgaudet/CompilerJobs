@@ -685,11 +685,14 @@ A number of Compiler/PL projects:
 
 * Working on Program Synthesis 
 
+## [Tachyum](https://www.tachyum.com/jobs/)
+
+* Compiler toolchain development for a new architecture that supports binary translation. 
+
 ## [Tenstorrent](https://tenstorrent.com/careers/)
 🗺 _Toronto, ON_
 
 * Machine learning hardware compilers
-
 
 ## [TetraMem](https://www.tetramem.com/)
 🗺 _SF Bay Area_
