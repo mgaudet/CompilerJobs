@@ -4,21 +4,25 @@ A listing of compiler, language and runtime teams for people looking for jobs in
 
 In Scope: Teams that work on language implementations, compilers for languages, language runtimes, static analysis, etc.
 
-[**Please contribute:**](https://github.com/mgaudet/CompilerJobs/pulls) _Pass on projects, teams, companies I've missed!_ 
+### Contributing
 
-#### Annotations: 
+[**Please contribute:**](https://github.com/mgaudet/CompilerJobs/pulls) Pass on projects, teams, companies I've missed. 
 
-##### 📤: Remote Work Supported
+**Feel free to spruce up the descripton of the work for teams you know about! Many of these are simply stubs**
 
-As far as things are known, these companies offer remote work opportunities.
+### Annotations: 
 
-##### 🧑‍🎓: Internships offered
+* 📤: Remote Work Supported
 
-These companies are known to have offered internships or co-ops in compiler, languages and runtimes. 
+    At the time the icon was added, the company offered remote work. 
 
-##### 🗺 : Location
+* 🧑‍🎓: Internships offered
 
-Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive! 
+    These companies are known to have offered internships or co-ops in compiler, languages and runtimes. 
+
+* 🗺 : Location
+
+    Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive! **Please, help me update this too!** 
 
 # Companies (<i id="count"></i> )
 
