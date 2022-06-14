@@ -146,9 +146,15 @@ Derived from job postings or other knowledge, this is where the team works. Defi
 * Many SQL dialects and supporting languages
 
 ## [Crowdstrike](https://www.crowdstrike.com/careers/) 📤
-🗺  _US, Canada_
+🗺 _US, Canada_
 
 * The Sensor and Language Tooling (SaLT) team works on a DSL to script Falcon's threat detection sensor
+
+## [d-Matrix](https://www.d-matrix.ai/careers)
+🗺 _Santa Clara, California _
+
+* Deep Neural Network hardware, with associated compiler (LLVM+MLIR) 
+
 
 ## [DashBit](https://dashbit.co/)
 
