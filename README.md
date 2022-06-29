@@ -228,6 +228,7 @@ A variety of projects, a limited subset of which I know about below.
 
 * [PyTorch](https://pytorch.org/)
 * [HHVM](https://hhvm.com/)
+* [Python (Cinder)](https://github.com/facebookincubator/cinder)
 
 ## [Fastly](https://www.fastly.com/about/careers)
 
@@ -429,6 +430,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * TypeScript
 * JVM
 * Rust Compiler
+* [Python](https://github.com/faster-cpython)
 
 ## [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
 
