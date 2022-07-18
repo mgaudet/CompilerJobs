@@ -108,6 +108,12 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * Building the [Hail](https://hail.is/) project for genomics, including a custom language and compiler. 
 
+## [Brookhaven National Laboratory](https://jobs.bnl.gov/)
+
+🗺 _Upton, New York_ 
+
+Work on the Programming Models and Compilers (PMC) group of the Computational Science Initiative. 
+
 ## [Cerebras](https://cerebras.net/careers/)
 🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
 
