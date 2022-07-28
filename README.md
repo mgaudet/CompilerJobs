@@ -755,6 +755,10 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 
 Building machine learning hardware
 
+## [Veridise](https://veridise.com/careers/) 📤
+
+Automated analysis of blockchain programs, built atop LLVM
+
 ## [Wasmer](https://www.workatastartup.com/jobs/15822)
 
 * WebAssembly runtime (LLVM)
