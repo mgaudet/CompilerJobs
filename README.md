@@ -461,6 +461,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Machine learning hardware compilers
 
+## [Nethermind](https://boards.eu.greenhouse.io/nethermind/jobs/4034249101) 📤 🧑‍🎓 
+
+* Get to contribute to a compiler for a target language with a novel memmory model
+* Opportunity to work on tooling support
+
 ## [Nintendo](https://careers.nintendo.com/job-openings/)
 🗺 _Redmond, WA_ 
 
