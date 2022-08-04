@@ -463,7 +463,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Nethermind](https://boards.eu.greenhouse.io/nethermind/jobs/4034249101) 📤 🧑‍🎓 
 
-* Get to contribute to a compiler for a target language with a novel memmory model
+* Get to contribute to a compiler for a target language with a novel memory model
 * Opportunity to work on tooling support
 
 ## [Nintendo](https://careers.nintendo.com/job-openings/)
