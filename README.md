@@ -760,7 +760,7 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 
 Building machine learning hardware
 
-## [Ventana](https://jobs.jobvite.com/ventanamicro/job/orgIkfwt)
+## [Ventana](https://jobs.jobvite.com/ventanamicro/)
 
 * RISC-V Architecture
 * GCC
