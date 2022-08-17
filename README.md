@@ -760,6 +760,13 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 
 Building machine learning hardware
 
+## [Ventana](https://jobs.jobvite.com/ventanamicro/job/orgIkfwt)
+
+* RISC-V Architecture
+* GCC
+* LLVM
+* Performance Analysis
+
 ## [Veridise](https://veridise.com/careers/) 📤
 
 Automated analysis of blockchain programs, built atop LLVM
