@@ -8,7 +8,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 [**Please contribute:**](https://github.com/mgaudet/CompilerJobs/pulls) Pass on projects, teams, companies I've missed. 
 
-**Feel free to spruce up the descripton of the work for teams you know about! Many of these are simply stubs**
+**Feel free to spruce up the description of the work for teams you know about! Many of these are simply stubs**
 
 ### Annotations: 
 
@@ -113,6 +113,12 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 🗺 _Upton, New York_ 
 
 Work on the Programming Models and Compilers (PMC) group of the Computational Science Initiative. 
+
+## [ByteDance](https://jobs.bytedance.com)
+
+🗺 _Mountain View, California_ 
+
+* Performance analysis and optimization
 
 ## [Cerebras](https://cerebras.net/careers/)
 🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
