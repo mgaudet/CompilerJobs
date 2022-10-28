@@ -369,7 +369,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Jetbrains](https://www.jetbrains.com/careers/apply/)
 
-🗺 _Munich & Berlin Germany, Prague Czech Republic, Amsterdam Netherlands, Cyprus, Serbia, Armenia (many other locations for non-compiler jobs)_
+🗺 _Munich & Berlin Germany, Prague Czech Republic, Amsterdam Netherlands, Cyprus, Serbia, Armenia (other locations for non-compiler jobs)_
 
 * Kotlin
 
