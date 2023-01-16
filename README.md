@@ -541,6 +541,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 🗺 San Francisco, 📤 Remote
 
 * [Bun](https://bun.sh): a JavaScript runtime with a native bundler, transpiler, task runner, and npm client built-in.
+    * Written in Zig
 
 ## [Partisa](https://partisia.com/careers/)
 🗺 _Aarhus, Denmark_ 
