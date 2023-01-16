@@ -537,6 +537,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [Polar](https://docs.osohq.com/learn/polar-foundations.html): a logic programming language for
   expressing authorization logic and policies.
 
+## [Oven](https://oven.sh)
+🗺 San Francisco, 📤 Remote
+
+* [Bun](https://bun.sh): a JavaScript runtime with a native bundler, transpiler, task runner, and npm client built-in.
+
 ## [Partisa](https://partisia.com/careers/)
 🗺 _Aarhus, Denmark_ 
 
