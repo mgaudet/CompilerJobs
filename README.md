@@ -836,6 +836,12 @@ Automated analysis of blockchain programs, built atop LLVM
 
 * Compiler for FPGA Systems 
 
+## [Xanadu](https://www.xanadu.ai/careers/)
+🗺 _Toronto, Canada_
+
+* Compilation stack for quantum computing and hybrid computation
+* LLVM, MLIR, QIR 
+
 ## [YoYo Games](https://www.yoyogames.com/en/jobs) 📤
 🗺 _Dundee, Scotland_
 
