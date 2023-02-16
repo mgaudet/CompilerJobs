@@ -610,6 +610,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Quantum Computing Compiler (LLVM + Rust)
 
+## [Rivos](https://www.rivosinc.com/} 
+🗺 Mountain View CA , Austin TX, Portland OR, Fort Collins CO, 
+🗺 Cambridge, UK 
+
+* LLVM contribution for RISC-V 
+
 ## [Roblox](https://corp.roblox.com/careers/)
 🗺 _San Mateo, CA_
 
