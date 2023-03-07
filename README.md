@@ -180,6 +180,12 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * WOQL Compiler
 
+## [Distributive](https://distributive.network) 📤
+🗺  Kingston, ON (Canada)
+
+* Distributed Computing on Web Stack - scheduling, WASM toolchains, etc.
+* PythonMonkey, deep embedding of SpiderMonkey (JS engine) into Python VM
+
 ## [Dfinity](https://dfinity.org/careers/)
 🗺  _San Fransisco CA, Palo Alto CA, Zurich Switzerland_
 
