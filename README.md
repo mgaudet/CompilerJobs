@@ -414,13 +414,14 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler for a visual programming language.
 
-## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html)
+## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html?source=19210&s_eid=Rci_19210)
 🗺 _Natick, MA, USA_
 
-* MATLAB
-* Simulink
+* [MATLAB](https://www.mathworks.com/products/matlab.html)
+* [Simulink](https://www.mathworks.com/products/simulink.html)
 * [HDL Coder](https://www.mathworks.com/products/hdl-coder.html) 
-* LLVM
+* [LLVM](https://llvm.org/devmtg/2014-10/Slides/Cheng-InteractiveModeling.pdf)
+* [JIT](https://www.mathworks.com/company/jobs/opportunities/9537-senior-software-engineer-jit-compiler?source=19210&s_eid=Rci_19210)
 
 ## [Marvell](https://www.marvell.com/company/careers/)
 
