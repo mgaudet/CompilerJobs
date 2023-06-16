@@ -268,6 +268,11 @@ A variety of projects, a limited subset of which I know about below.
 
 * Aquamarine, a distributed choreography language & platform
 
+
+## [Fuel Labs](https://jobs.lever.co/fuellabs) 📤
+
+* Building [Sway](https://github.com/FuelLabs/sway), a smart-contract programming language
+
 ## [FutureWei Technologies](https://futurewei.com/index.php/fwcareers)
 
 * Rust compiler work.
