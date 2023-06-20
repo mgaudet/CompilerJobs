@@ -1,6 +1,7 @@
 ---
 permalink: /
 ---
+<meta name="google-site-verification" content="ATLBZ7E4AHopcoZBVnh1dCw32o_sVFfBP_stMLw3cXE" />
 {% include_relative README.md %}
 
 
