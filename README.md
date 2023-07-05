@@ -633,7 +633,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Quantum Computing Compiler (LLVM + Rust)
 
-## [Rivos](https://www.rivosinc.com/} 
+## [Rivos](https://www.rivosinc.com/)
 🗺 Mountain View CA , Austin TX, Portland OR, Fort Collins CO, 
 🗺 Cambridge, UK 
 
