@@ -89,7 +89,13 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 ## [Ascenium](https://www.ascenium.com/careers)
 🗺 _Campbell, CA_, _Stavanger and Oslo, Norway_
 
-* LLVM and Hardware codesign. 
+* LLVM and Hardware codesign.
+
+## [Autodesk](https://www.autodesk.com/careers/overview) 📤
+🗺 _Quebec, Ontario_
+
+* JIT Compiler for [Bifrost for Maya](https://newpossible.autodesk.com/bifrost) (LLVM?)
+
 
 ## [Azul](https://www.azul.com/careers-at-azul-systems/) 📤
 
