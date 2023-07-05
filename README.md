@@ -303,6 +303,11 @@ Innumerable projects, but off the top of my head:
 * [Dart](https://dart.dev/)
 * [MLIR](https://www.tensorflow.org/mlir)
 
+## [GrAI Matter Labs](https://www.graimatterlabs.ai/careers) 
+🗺 _Eindhoven, NL_
+
+>  [Our team develops the MLIR based ML compiler for our own neuromorphic/dataflow architecture.](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894/20)
+
 ## [GrammaTech](https://www.grammatech.com/careers) 📤 (US only)
 🗺 _Ithaca, NY_
 
