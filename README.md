@@ -24,7 +24,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
     Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive! **Please, help me update this too!** 
 
-# Companies (<i id="count"></i> )
+# Companies (<i id="count"></i>)
 
 ## [Access Softek Toolchains](https://www.softek-toolchains.com/careers) 📤
 
