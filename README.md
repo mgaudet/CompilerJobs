@@ -159,14 +159,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Custom LLVM-based compiler toolchains for clients
 
-## [CompilerWorks](https://www.compilerworks.com/about/#Careers)
-
-🗺 _SF Bay Area HQ_
-
-📤 [map of locations](https://www.google.com/maps/d/u/0/viewer?mid=1QWGEbJNna8TipgJZpYRYqCUNDsj3cqzT&ll=-3.81666561775622e-14%2C-9.286491447135973&z=1)
-
-* Many SQL dialects and supporting languages
-
 ## [Crowdstrike](https://www.crowdstrike.com/careers/) 📤
 🗺 _US, Canada_
 
