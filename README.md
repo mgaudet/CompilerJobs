@@ -379,7 +379,8 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 🧑‍🎓
 🗺 _New York, London_
 
-* [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/) 
+* [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/)
+* [Tools & Compilers Researcher Internship, Flexible](https://www.janestreet.com/join-jane-street/position/5869205002/)
 
 ## [Jetbrains](https://www.jetbrains.com/careers/apply/)
 
