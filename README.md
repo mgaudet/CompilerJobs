@@ -178,6 +178,9 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * WOQL Compiler
 
+## [Deno](https://jobs.ashbyhq.com/Deno) 📤
+* JavaScript runtime and tools written in Rust
+
 ## [Distributive](https://distributive.network) 📤
 🗺  Kingston, ON (Canada)
 
