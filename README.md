@@ -246,6 +246,10 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Erlang
 
+## [Fabric Cryptography](https://www.fabriccryptography.com/careers) 📤
+
+* LLVM-based compiler for custom cryptographic hardware
+
 ## [Facebook](https://www.facebook.com/careers/jobs/)
 
 A variety of projects, a limited subset of which I know about below. 
