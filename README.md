@@ -815,11 +815,11 @@ Building machine learning hardware
 * Performance Analysis
 
 ## [Veridise](https://veridise.com/careers/) 📤
-🗺 _Bristol / Cambridge_
 
 Automated analysis of blockchain programs, built atop LLVM
 
 ## [Vypercore](https://www.vypercore.com/team) 
+🗺 _Bristol / Cambridge_
 
 Toolchain development for RISC-V core with novel hardware memory allocation management technology. 
 
