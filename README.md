@@ -694,6 +694,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Interpreters, garbage collectors
 * JVM, Truffle, Graal
 
+## [Shorebird](https://shorebird.dev/jobs/) 📤
+
+* Dart VM and compiler
+
 ## [Siemens](https://new.siemens.com/global/en/company/jobs.html)
 🗺 _A number of locations_
 
