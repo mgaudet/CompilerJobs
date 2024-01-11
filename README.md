@@ -91,6 +91,10 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
 * LLVM and Hardware codesign.
 
+## [Astral](https://astral.sh/) 📤
+
+* [Ruff](https://astral.sh/ruff), a linter and autoformatter for Python code written in Rust.
+
 ## [Autodesk](https://www.autodesk.com/careers/overview) 📤
 🗺 _Quebec, Ontario_
 
