@@ -854,6 +854,11 @@ Toolchain development for RISC-V core with novel hardware memory allocation mana
 
 * Erlang
 
+## [Wibu-Systems](https://jobs.wibu.com/de?id=d7d9f1) 🧑‍🎓
+🗺  _Karlsruhe, Germany_
+
+* compiler development and security research with LLVM, .NET CIL, Python and more
+
 ## [WindRiver](https://www.windriver.com/careers/)
 
 * Compilers for VxWorks
