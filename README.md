@@ -722,6 +722,10 @@ A number of Compiler/PL projects:
 
 * Heterogenous architecture development
 
+## [Snyk](https://snyk.io/careers/all-jobs/)
+🗺 _Bucharest, Romania_
+
+* [Snyk Code](https://snyk.io/product/snyk-code/), a static analysis tool that exists as part of the Snyk platform
 
 ## [Solana](https://jobs.solana.com/)
 
