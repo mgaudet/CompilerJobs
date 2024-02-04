@@ -504,6 +504,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Get to contribute to a compiler for a target language with a novel memory model
 * Opportunity to work on tooling support
 
+## [NextSilicon](https://www.nextsilicon.com/careers)
+🗺 _Israel_
+
+* Compiler for specialised HPC hardware
+
 ## [Nintendo](https://careers.nintendo.com/job-openings/)
 🗺 _Redmond, WA_ 
 
