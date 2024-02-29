@@ -831,6 +831,11 @@ Building machine learning hardware
 * LLVM
 * Performance Analysis
 
+## [Vercel](https://vercel.com/careers?department=Engineering)
+🗺 United States
+
+Static analysis framework for JavaScript applications
+
 ## [Veridise](https://veridise.com/careers/) 📤
 
 Automated analysis of blockchain programs, built atop LLVM
