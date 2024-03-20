@@ -453,7 +453,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [LCC](http://www.mcst.ru/lcc) optimizing compiler for MCST's chips
 * Binary translator from x86 to own Elbrus ISA
 
-## [MediaTek](https://www.mediatek.com/careers/careers)
+## [MediaTek](https://careers.mediatek.com/)
 🗺 _Woburn, MA, USA_
 
 * Compiler development for MediaTek chips
