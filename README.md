@@ -485,6 +485,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Building AI tooling.
 
+## [Monad Labs](https://www.monadlabs.xyz/) 📤
+
+* Accelerating blockchain 
+
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
 * Rust compiler development
