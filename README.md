@@ -434,6 +434,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler for a visual programming language.
 
+## [Manakau](https://manakau.com)
+
+* A family of domain-specific languages for financial use cases.
+
 ## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html?source=19210&s_eid=Rci_19210)
 🗺 _Natick, MA, USA_
 
