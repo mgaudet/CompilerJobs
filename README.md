@@ -466,6 +466,16 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Compiler development for Microchip's chips. 
 
+## [Microdoc](https://www.microdoc.com/career/) 📤
+🗺 _Berlin, Munich, Stuttgart, Germany_
+
+We develop custom GraalVM and Java runtime environments and virtual machines for use in embedded systems:
+  * [GraalVM](https://www.graalvm.org/) Enterprise and Community runtime environments.
+  * Java SE, OpenJDK and J9 runtime environments.
+  * Target operating systems include QNX, Linux, Android, Windows CE, OSE.
+  * Target processor architectures include ARM 64-bits and 32-bits, Intel x86 32-bits, AMD x86_64, MIPS, PowerPC.
+  * Implementing custom features inside the JVM or standard library.
+
 ## [Microsoft](https://careers.microsoft.com/)
 
 * MSVC
