@@ -501,7 +501,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
-* Rust compiler development
 * [SpiderMonkey development](https://spidermonkey.dev)
 
 ## [Mutual Knowledge Systems (MuKn)](https://mukn.io/) 📤
