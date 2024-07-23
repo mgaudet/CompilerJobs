@@ -554,6 +554,13 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * OCaml compiler and runtime
 
+## [OCamlPRO](https://ocamlpro.com/) 🧑‍🎓
+🗺 _Paris, France_
+
+* Toolchains for OCaml, COBOL and Rust
+
+* Positions for industry oriented doctoral theses and internships
+
 ## [Octasic](http://www.octasic.com/careers/#openings)
 🗺 _Montreal, QC, Canada_ 
 
