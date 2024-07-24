@@ -801,6 +801,15 @@ A number of Compiler/PL projects:
 
 * Machine learning hardware compilers
 
+## [Terapines](https://www.terapines.com/post/1965/)
+🗺 _Wuhan, China_
+
+* AI compiler development based on LLVM/MLIR
+* Mojo language development
+* RISC-V compiler toolchain development
+* CIRCT compiler development
+* ClangIR development
+
 ## [TetraMem](https://www.tetramem.com/)
 🗺 _SF Bay Area_
 
