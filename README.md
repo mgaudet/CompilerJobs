@@ -674,10 +674,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Embedded scripting languages for the Roblox game engine, for example [Luau](https://luau-lang.org/)
 
-## [Rome](https://rome.tools/) 📤
-
-* [Building developer tooling for JavaScript in Rust](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)
-
 ## [Runtime Verification](https://runtimeverification.com/careers/) 📤
 
 * K Framework 
