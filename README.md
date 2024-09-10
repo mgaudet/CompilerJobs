@@ -575,6 +575,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * [Triton](https://github.com/openai/triton), a language and compiler for writing highly efficient custom Deep-Learning primitives
 
+## [OpenText](https://careers.opentext.com/)
+🗺 _Richmond Hill, ON, CA Waterloo, ON, CA Ottawa, ON, CA Mississauga, ON, CA_
+
+* Application Security static analysis (OpenText Fortify)
+
 ## [Oracle](https://www.oracle.com/corporate/careers/) 
 
 * OpenJDK, including the hotspot compiler
