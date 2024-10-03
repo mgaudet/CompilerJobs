@@ -703,6 +703,10 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Scala compiler (JVM, Scala.js, Scala native), editor integration and tooling
 
+## [SCI Semiconductor](https://www.scisemi.com/careers/) 📤
+
+* LLVM Support for [CHERIoT](https://cheriot.org/) 
+
 ## [SEGGER](https://www.segger.com/about-us/job-offers/) 📤
 
 * [Clang-based compiler specialised for embedded development](https://blog.segger.com/the-segger-compiler/)
