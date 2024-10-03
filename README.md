@@ -2,7 +2,11 @@
 
 A listing of compiler, language and runtime teams for people looking for jobs in this area. My motivation for curating this is in [this blog post](https://www.mgaudet.ca/technical/2019/12/10/compiler-jobs).
 
-In Scope: Teams that work on language implementations, compilers for languages, language runtimes, static analysis, etc.
+### Scope
+
+- Teams that work on language implementations, compilers for languages, language runtimes, static analysis, etc.
+- I generally want evidence that a company has hired at some point in the past or will in the future (which excludes some boutique firms & early stage startups).
+
 
 ### Contributing
 
