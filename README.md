@@ -251,7 +251,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 * DSL compiler and toolchain for game development
 
 ## [Esperanto Technologies](https://www.esperanto.ai/careers/)
-🗺 _Mountain View, California Austin, Texas Portland, Oregon_
+🗺 _Mountain View, California, Austin, Texas Portland, Oregon, Barcelona, Spain_
 
 *  LLVM and GLOW compiler teams for RISC-V AI acceleration. 
 
