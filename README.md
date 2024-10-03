@@ -439,6 +439,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * K programming language
 
+## [Lemurian Labs](https://www.lemurianlabs.com/) 
+
+* AI Portability
+
 ## [Lightmatter](https://lightmatter.co/people/join-us/)
 
 * Machine learning hardware compilers
