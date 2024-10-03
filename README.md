@@ -7,6 +7,8 @@ A listing of compiler, language and runtime teams for people looking for jobs in
 - Teams that work on language implementations, compilers for languages, language runtimes, static analysis, etc. This includes things like:
   - Database query compilers
   - HDL & Synthesis Compilers
+    
+  I want to err on the side of openness! The field is broad, and I don't want to be too close-minded here.
 - I generally want evidence that a company has hired at some point in the past or will in the future (which excludes some boutique firms & early stage startups).
 
 
