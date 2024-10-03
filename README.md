@@ -134,6 +134,10 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Performance analysis and optimization
 
+## [Canonical](https://canonical.com/careers/) 📤
+
+* Building and improving Rust Compiler & toolchain for Ubuntu
+
 ## [Cerebras](https://cerebras.net/careers/)
 🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
 
