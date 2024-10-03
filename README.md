@@ -547,6 +547,10 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Compiler for specialised HPC hardware
 
+## [=nil.foundation;](https://nil.foundation/careers/jobs) 
+
+* Ethereum L2 
+
 ## [Nintendo](https://careers.nintendo.com/job-openings/)
 🗺 _Redmond, WA_ 
 
