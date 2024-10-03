@@ -764,6 +764,11 @@ A number of Compiler/PL projects:
 
 * Heterogenous architecture development
 
+## [Snowflake](https://careers.snowflake.com) 
+🗺 _ Bellevue, WA, & San Mateo, CA_ 
+
+* Database query compiler 
+
 ## [Snyk](https://snyk.io/careers/all-jobs/)
 🗺 _Bucharest, Romania_
 
