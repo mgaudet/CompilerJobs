@@ -4,7 +4,9 @@ A listing of compiler, language and runtime teams for people looking for jobs in
 
 ### Scope
 
-- Teams that work on language implementations, compilers for languages, language runtimes, static analysis, etc.
+- Teams that work on language implementations, compilers for languages, language runtimes, static analysis, etc. This includes things like:
+  - Database query compilers
+  - HDL & Synthesis Compilers
 - I generally want evidence that a company has hired at some point in the past or will in the future (which excludes some boutique firms & early stage startups).
 
 
@@ -13,6 +15,8 @@ A listing of compiler, language and runtime teams for people looking for jobs in
 [**Please contribute:**](https://github.com/mgaudet/CompilerJobs/pulls) Pass on projects, teams, companies I've missed. 
 
 **Feel free to spruce up the description of the work for teams you know about! Many of these are simply stubs**
+
+I generally link to a company's Careers/Job's page rather than linking to specific jobs -- these links have a longer lifespan than just the straight up link to a job. 
 
 ### Annotations: 
 
