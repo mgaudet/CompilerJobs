@@ -866,7 +866,8 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 * Mono
 * IL2CPP, a compiler to convert .NET IL to C++
 
-## [Untether.ai](https://jobs.lever.co/untether) 
+## [Untether.ai](https://jobs.lever.co/untether) 📤
+🗺 _Toronto, Canada_
 
 Building machine learning hardware
 
