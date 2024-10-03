@@ -330,6 +330,10 @@ Innumerable projects, but off the top of my head:
 
 * Certified C/C++ for Embedded
 
+## [Grit](https://about.grit.io/) 
+
+* Compilers for [GritQL](https://docs.grit.io/language/overview)
+
 ## [Groq](https://groq.com/careers/)
 🗺 _Portland, Mountain View, Toronto_ 
 
