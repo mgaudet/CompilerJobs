@@ -149,6 +149,11 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * LLVM and more
 
+## [Cisco](https://www.cisco.com/c/en/us/about/careers.html) 
+🗺 _Belgrade, Sebria_ 
+
+* Work on CISCO Silicon One™ compiler
+
 ## [Cloudflare](https://www.cloudflare.com/careers/)
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
