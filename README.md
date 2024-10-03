@@ -301,6 +301,7 @@ A variety of projects, a limited subset of which I know about below.
 * Building [Sway](https://github.com/FuelLabs/sway), a smart-contract programming language
 
 ## [Furiosa](https://furiosa.ai/jobs)
+🗺 _Seoul, South Korea_
 
 * AI Accelarator
 
