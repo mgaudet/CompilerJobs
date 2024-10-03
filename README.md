@@ -774,6 +774,12 @@ A number of Compiler/PL projects:
 
 * Heterogenous architecture development
 
+## [SiMa.ai](https://sima.ai/careers/) 
+🗺  _San Jose, CA_
+
+* Machine Learning accelerator compiler
+* Hardware software co-design 
+
 ## [Snowflake](https://careers.snowflake.com) 
 🗺 _ Bellevue, WA, & San Mateo, CA_ 
 
