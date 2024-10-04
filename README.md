@@ -694,11 +694,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * GCC 
 * JVM (OpenJDK)
 
-## [Resevoir Labs](https://www.reservoir.com/company/careers/) 📤 🧑‍🎓
-
-* LLVM
-* Polyhedral compilation
-
 ## [Rigetti Computing](https://www.rigetti.com/careers) 📤
 
 * Quantum Computing Compiler (LLVM + Rust)
