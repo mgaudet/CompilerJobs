@@ -402,6 +402,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * Builds [the C2Rust translator](https://github.com/immunant/c2rust)
 
 ## [Inria](https://www.inria.fr/en/)
+🗺 _Multiple locations, France_
 
 * OCaml, Coq
 
