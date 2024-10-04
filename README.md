@@ -159,6 +159,12 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Cloudflare Workers: V8 (WebAssembly, Javascript, deployed at the edge)
 
+## [Codasip](https://codasip.com/company/careers/)
+🗺 _Brno/Prague, Czech Republic, Munich, Germany, and Bristol, UK_ 
+
+* CHERI extension for LLVM (RISC-V)
+* LLVM engineers, to support the RISC-V vector processing unit
+
 ## [Codeplay](https://www.codeplay.com/company/careers/)
 
 * Clang, LLVM, LLDB
