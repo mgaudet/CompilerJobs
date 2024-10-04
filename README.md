@@ -704,8 +704,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Quantum Computing Compiler (LLVM + Rust)
 
 ## [Rivos](https://www.rivosinc.com/)
-🗺 Mountain View CA , Austin TX, Portland OR, Fort Collins CO, 
-🗺 Cambridge, UK 
+🗺 _Mountain View CA, Austin TX, Portland OR, Fort Collins CO, and Cambridge, UK_ 
 
 * LLVM contribution for RISC-V 
 
