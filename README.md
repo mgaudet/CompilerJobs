@@ -69,6 +69,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
  * [AOCC](https://developer.amd.com/amd-aocc/)
  * [ROCm](https://rocmdocs.amd.com/en/latest/)
+ * LLVM upstream work on the AMDGPU backend
 
 ## [Ampere Computing](https://amperecomputing.com/apply/)
 
