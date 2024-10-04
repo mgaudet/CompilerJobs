@@ -889,10 +889,6 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 
 * [TrustInSoft Analyzer](https://trust-in-soft.com/product-c-and-c-source-code-analyzer/), a source code verification tool for C and C++
 
-## [Twitter](https://careers.twitter.com/)
-
-* JVM/Graal
-
 ## [Unity](https://careers.unity.com/)
 
 * .NET
