@@ -319,7 +319,7 @@ A variety of projects, a limited subset of which I know about below.
 * [CodeQL](https://securitylab.github.com/tools/codeql/), a query language for writing custom static analysis rules
 
 ## [Google](https://careers.google.com/) 📤
-🗺 _Mountain View, CA and Seattle, WA_
+🗺 _Mountain View, CA, Seattle, WA, and London, UK_
 
 Innumerable projects, but off the top of my head: 
 
