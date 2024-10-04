@@ -562,12 +562,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Compiler engineering
 
-## [Nod](https://nod.ai/careers/) 📤
-
-* Compiler improvements for AI workloads. 
-* Python and C++
-* LLVM / MLIR / PyTorch
-
 ## [Nomic Foundation](https://nomic.foundation/) 📤 
 
 * Compiler Engineering (Rust) - Slang
