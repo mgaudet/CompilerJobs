@@ -580,6 +580,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
 
 * LLVM
+* Flang
 
 ## [NXP](https://www.nxp.com/company/about-nxp/careers:CAREERS)
 
