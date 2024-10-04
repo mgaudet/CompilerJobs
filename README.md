@@ -694,6 +694,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * GCC 
 * JVM (OpenJDK)
+* LLVM
 
 ## [Rigetti Computing](https://www.rigetti.com/careers) 📤
 
