@@ -495,6 +495,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [LLVM](https://llvm.org/devmtg/2014-10/Slides/Cheng-InteractiveModeling.pdf)
 * [JIT](https://www.mathworks.com/company/jobs/opportunities/9537-senior-software-engineer-jit-compiler?source=19210&s_eid=Rci_19210)
 
+## [Matter Labs](https://matter-labs.io) 📤
+
+* LLVM-based compiler for executing Ethereum smart contracts
+
 ## [Marvell](https://www.marvell.com/company/careers/)
 
 * GCC contributions
