@@ -65,7 +65,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
 * Computer vision AI hardware compiler
 
-## [AMD](https://jobs.amd.com/)
+## [AMD](https://jobs.amd.com/) 📤 (some teams)
 
  * [AOCC](https://developer.amd.com/amd-aocc/)
  * [ROCm](https://rocmdocs.amd.com/en/latest/)
