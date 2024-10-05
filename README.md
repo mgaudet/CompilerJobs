@@ -470,6 +470,11 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * DSL compiler for [supply chain optimisation](http://blog.lokad.com/journal/2016/9/26/will-compilation-save-supply-chains)
 
+## [lowRISC](https://lowrisc.org/jobs/)
+🗺 _Cambridge, UK_
+
+* Non-profit with LLVM RISC-V work
+
 ## [Lynx Tool](https://lynxtool.com/careers)
 
 * Compiler for a visual programming language.
