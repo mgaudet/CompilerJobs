@@ -579,9 +579,9 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Opportunity to work on tooling support
 
 ## [NextSilicon](https://www.nextsilicon.com/careers)
-🗺 _Israel_
+🗺 _Israel, Zurich_
 
-* Compiler for specialised HPC hardware
+* MLIR work for specialised HPC hardware
 
 ## [=nil.foundation;](https://nil.foundation/careers/jobs) 
 
