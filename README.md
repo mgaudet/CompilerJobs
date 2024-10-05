@@ -414,10 +414,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * OCaml, Coq
 
-## [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
+## [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html) 📤 (few teams at Intel Labs)
 
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers)
 * [Intel FPGA OpenCL compiler](https://www.intel.ca/content/www/ca/en/software/programmable/sdk-for-opencl/overview.html)
+* [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) with ML Compiler and MLIR work
+* LLVM contributions (mostly X86 backend)
 
 ## [Igalia](https://www.igalia.com/jobs/) 📤🧑‍🎓
 🗺 _A Coruña, Galicia, Spain / Worldwide_
