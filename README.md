@@ -317,7 +317,7 @@ A variety of projects, a limited subset of which I know about below.
 
 * AI Accelarator
 
-## [FutureWei Technologies](https://futurewei.com/index.php/fwcareers)
+## [FutureWei Technologies](https://www.futurewei.com/index.php/careers)
 
 * Rust compiler work.
 
