@@ -252,7 +252,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 * Open Source toolchain development, with a primary focus on GCC, LLVM and Verilator.
 
 
-## [emmtrix Technologies](https://www.emmtrix.com/jobs) 🧑‍🎓
+## [emmtrix Technologies](https://www.emmtrix.com/company/jobs) 🧑‍🎓
 🗺  _Karlsruhe, Germany_
 
 * Source-to-source compilers
