@@ -875,6 +875,11 @@ A number of Compiler/PL projects:
 
 * Machine learning hardware compilers, LLVM
 
+## [The Browser Company](https://thebrowser.company/careers) 📤 (US/Canada)
+🗺 _New York, US_
+
+* Swift compiler work
+
 ## [Theobroma Systems](https://careers.theobroma-systems.com/jobs/)
 🗺 _Vienna_
 
