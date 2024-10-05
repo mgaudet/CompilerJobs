@@ -379,6 +379,7 @@ Innumerable projects, but off the top of my head:
 
 * [Chapel](https://chapel-lang.org/)
 * Cray Programming Environment, a suite of Fortran, C and C++ compilers
+* LLVM contributions
 
 ## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
 
