@@ -792,6 +792,11 @@ A number of Compiler/PL projects:
 * Machine Learning accelerator compiler
 * Hardware software co-design 
 
+## [SiPerl](https://careers.sipearl.com/en#jobs) 🧑‍🎓
+🗺  _Multiple locations, Europe_
+
+* LLVM-based compiler
+
 ## [Snowflake](https://careers.snowflake.com) 
 🗺 _ Bellevue, WA, & San Mateo, CA_ 
 
