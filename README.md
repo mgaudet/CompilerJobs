@@ -93,9 +93,12 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 * JSC (JavaScript interpreter created as part of WebKit)
 * Static Analysis tooling
 
-## [ARM](https://www.arm.com/company/careers)
+## [Arm](https://www.arm.com/company/careers)
 
-* Multiple teams supporting the ARM ISA. 
+* GCC
+* LLVM work to support Arm32 (embedded), and to support Scalable Vector Extension (SVE)
+* LLVM-based downstream GPU compiler for Mali GPUs
+* ML compiler
 
 ## [Ascenium](https://www.ascenium.com/careers)
 🗺 _Campbell, CA_, _Stavanger and Oslo, Norway_
