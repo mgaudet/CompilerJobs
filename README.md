@@ -595,10 +595,12 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Toolchain development (LLVM, GCC)
 
-## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 
+## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 📤 (some teams)
 
-* LLVM
+* LLVM middle-end/back-end contributions
+* Front-end work on nvcc to support CUDA
 * Flang
+* ML Compiler
 
 ## [NXP](https://www.nxp.com/company/about-nxp/careers:CAREERS)
 
