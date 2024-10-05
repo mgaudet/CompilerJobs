@@ -86,10 +86,11 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 * MLIR/LLVM
 
 ## [Apple](https://www.apple.com/jobs/) 🧑‍🎓 
-🗺 _Cupertino, CA_, _London, UK_
+🗺 _Cupertino, CA, London, UK, Israel_
 
 * Clang and LLVM
 * Swift
+* GPU Compiler
 * JSC (JavaScript interpreter created as part of WebKit)
 * Static Analysis tooling
 
