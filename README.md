@@ -851,6 +851,11 @@ A number of Compiler/PL projects:
 
 * Compiler toolchain development for a new architecture that supports binary translation. 
 
+## [Tarides](https://tarides.com/careers/) 📤
+🗺 _Paris, France, Cambridge, UK, Chennai, India_
+
+* OCaml compiler
+
 ## [Tenstorrent](https://tenstorrent.com/careers/)
 🗺 _Toronto, ON_
 
