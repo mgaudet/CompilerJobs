@@ -942,6 +942,8 @@ Building machine learning hardware
 ## [UPMEM](https://www.upmem.com)
 🗺 _Grenoble, France_
 
+Building a processing-in-memory product. 
+
 * LLVM-based compiler
 
 ## [Vector](https://jobs.vector.com/global/our-jobs)
