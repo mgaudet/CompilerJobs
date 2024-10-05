@@ -676,6 +676,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * LLVM 
 * GPU Compiler
 
+## [Quantinuum](https://www.quantinuum.com/company/careers) 
+🗺 _Multiple locations, UK/US/Japan_
+
+* Quantum compiler
+
 ## [Quarkslab](https://quarkslab.com/careers/) 
 🗺 _Paris, France_ (remote available within France)
 * A security product built on LLVM
