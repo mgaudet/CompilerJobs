@@ -836,7 +836,10 @@ A number of Compiler/PL projects:
 
 ## [Synopsys](https://www.synopsys.com/company/synopsys-careers.html)
 
-* Makers of Coverity 
+* Makers of Coverity
+* LLVM work on the ARC backend
+* LLDB
+* Neural Network Compiler 
 
 ## [Synthetic Minds](https://www.workatastartup.com/jobs/44386) 📤
 
