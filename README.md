@@ -475,6 +475,10 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Machine learning hardware compilers
 
+## [Linaro](https://www.linaro.org/careers)
+
+* LLVM work supporting the Arm architecture
+
 ## [Lokad](https://www.lokad.com/jobs-senior-compilation-engineer)
 🗺 _Paris, France_
 
