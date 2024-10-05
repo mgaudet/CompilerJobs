@@ -299,6 +299,11 @@ A variety of projects, a limited subset of which I know about below.
 
 * ML Compiler work
 
+## [Flow Computing](https://flow-computing.com/company/) 📤 (preferably Europe)
+🗺 _Oulu, Finland_
+
+* LLVM (mostly back-end)
+
 ## [Fluence Labs](https://fluence.network/join.html) 📤
 
 * Aquamarine, a distributed choreography language & platform
