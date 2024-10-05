@@ -749,9 +749,9 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * JVM
 * Node.js
 
-## [Scala Center](https://scala.epfl.ch/)
+## [Scala Center - EPFL](https://scala.epfl.ch/)
 
-* Scala compiler (JVM, Scala.js, Scala native), editor integration and tooling
+* Non-profit with Scala compiler work (JVM, Scala.js, Scala native), editor integration and tooling
 
 ## [SCI Semiconductor](https://www.scisemi.com/careers/) 📤
 
