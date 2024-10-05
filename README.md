@@ -934,6 +934,11 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 
 Building machine learning hardware
 
+## [UPMEM](https://www.upmem.com)
+🗺 _Grenoble, France_
+
+* LLVM-based compiler
+
 ## [Vector](https://jobs.vector.com/global/our-jobs)
 
 * Static analysis and abstract program interpretation for software hardening
