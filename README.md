@@ -589,10 +589,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * LLVM
 
-## [OCaml Labs](https://ocamllabs.io/) 📤
-
-* OCaml compiler and runtime
-
 ## [OCamlPRO](https://ocamlpro.com/) 🧑‍🎓
 🗺 _Paris, France_
 
