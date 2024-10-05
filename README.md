@@ -686,10 +686,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
  * LLVM development for Quadric platform
 
-## [Qualcomm](https://www.qualcomm.com/company/careers)
+## [Qualcomm](https://www.qualcomm.com/company/careers) 📤 (some teams)
 
-* LLVM 
+* LLVM (Hexagon backend, Polly)
 * GPU Compiler
+* ML Compiler
 
 ## [Quantinuum](https://www.quantinuum.com/company/careers) 
 🗺 _Multiple locations, UK/US/Japan_
