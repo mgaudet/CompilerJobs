@@ -900,6 +900,10 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 
 Building machine learning hardware
 
+## [Vector](https://jobs.vector.com/global/our-jobs)
+
+* Static analysis and abstract program interpretation for software hardening
+
 ## [Ventana](https://jobs.jobvite.com/ventanamicro/)
 
 * RISC-V Architecture
