@@ -285,14 +285,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * LLVM-based compiler for custom cryptographic hardware
 
-## [Facebook](https://www.facebook.com/careers/jobs/)
-
-A variety of projects, a limited subset of which I know about below. 
-
-* [PyTorch](https://pytorch.org/)
-* [HHVM](https://hhvm.com/)
-* [Python (Cinder)](https://github.com/facebookincubator/cinder)
-
 ## [Fastly](https://www.fastly.com/about/careers)
 
 * [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
@@ -501,6 +493,15 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Marvell](https://www.marvell.com/company/careers/)
 
 * GCC contributions
+
+## [Meta](https://www.metacareers.com)
+
+A variety of projects, a limited subset of which I know about below. 
+
+* [PyTorch](https://pytorch.org/)
+* [HHVM](https://hhvm.com/)
+* [Python (Cinder)](https://github.com/facebookincubator/cinder)
+* LLVM contributions (MLIR, LLDB, ThinLTO, BOLT etc.)
 
 ## [MCST](http://www.mcst.ru/vakansis)
 🗺  _Moscow, Russia_
