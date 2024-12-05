@@ -964,6 +964,11 @@ Building a processing-in-memory product.
 
 * Static analysis and abstract program interpretation for software hardening
 
+## [Veeva Systems](https://careers.veeva.com/) [📤](https://careers.veeva.com/work-anywhere/) 
+🗺 _Pleasanton, Columbus, Boston, Kansas City, New York City, Raleigh, and Toronto_ 
+
+* Work on Language and Runtime system 
+
 ## [Ventana](https://jobs.jobvite.com/ventanamicro/)
 
 * RISC-V Architecture
