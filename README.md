@@ -155,7 +155,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 * LLVM and more
 
 ## [Cisco](https://www.cisco.com/c/en/us/about/careers.html) 
-🗺 _Belgrade, Sebria_ 
+🗺 _Belgrade, Serbia_ 
 
 * Work on CISCO Silicon One™ compiler
 
