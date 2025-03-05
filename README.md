@@ -856,7 +856,7 @@ A number of Compiler/PL projects:
 
 * LLVM Compiler Development
 
-## [Splunk](https://www.splunk.com/en_us/careers.html) \(aquired by Cisco\) 📤
+## [Splunk](https://www.splunk.com/en_us/careers.html) (acquired by Cisco) 📤
 🗺 _Seattle, WA + multiple locations_
 
 * Query language / compiler development
