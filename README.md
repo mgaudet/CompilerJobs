@@ -786,6 +786,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * [DMS](http://www.semdesigns.com/Products/DMS/index.html), a suite of program transformation tools for large scale software systems
 * [PARLANSE](http://www.semdesigns.com/Products/Parlanse/index.html), a parallel programming language
 
+## [SEMRON](https://semron.ai/)
+🗺 _Dresden, GER_
+
+- LLVM, MLIR
+
 ## [ShiftLeft](https://www.shiftleft.io/) 📤
 
 * Compiler technology used for application security.
