@@ -250,6 +250,11 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Machine learning hardware compilers
 
+## [Efficient Computer](https://www.efficient.computer/about#careers)
+🗺  _San Jose, CA_ or _Pittsburgh, PA_
+
+* Develop compilers for a energy-efficient programmable processor
+
 ## [Embecosm](https://www.embecosm.com/about/careers/)
 🗺 _Southampton, UK,  Nürnberg, Germany_ 
 
