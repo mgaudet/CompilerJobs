@@ -716,7 +716,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Quantum compiler
 
-## [Quarkslab](https://quarkslab.com/careers/) 
+## [Quarkslab](https://www.quarkslab.com/careers-jobs/) 
 🗺 _Paris, France_ (remote available within France)
 * A security product built on LLVM
 
