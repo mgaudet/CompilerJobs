@@ -149,6 +149,11 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Building and improving Rust Compiler & toolchain for Ubuntu
 
+## [Category Labs](https://www.category.xyz/) 📤
+🗺 _New York City_ 
+
+* Accelerating blockchain 
+
 ## [Cerebras](https://cerebras.net/careers/)
 🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
 
@@ -570,10 +575,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 ## [Modular](https://www.modular.ai/careers) 📤
 
 * Building AI tooling.
-
-## [Monad Labs](https://www.monadlabs.xyz/) 📤
-
-* Accelerating blockchain 
 
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
