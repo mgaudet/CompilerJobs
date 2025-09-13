@@ -685,6 +685,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * P4 compiler targetting the Capri processor (LLVM)
 
+## [Persimmons](https://apply.workable.com/persimmons-ai/)
+🗺 _San Jose, CA_
+
+* Compiler for Persimmons' proprietary ML accelerator hardware.
+
 ## [PGI](https://www.pgroup.com/about/jobs.htm) 
 🗺 _Portland_
 
@@ -963,11 +968,6 @@ Security firm that does [compiler engineering and research](https://www.trailofb
 * .NET
 * Mono
 * IL2CPP, a compiler to convert .NET IL to C++
-
-## [Untether.ai](https://jobs.lever.co/untether) 📤
-🗺 _Toronto, Canada_
-
-Building machine learning hardware
 
 ## [UPMEM](https://www.upmem.com)
 🗺 _Grenoble, France_
