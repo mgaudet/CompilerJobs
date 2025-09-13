@@ -154,6 +154,11 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Accelerating blockchain 
 
+## [Celestial AI](https://www.celestial.ai/careers)
+🗺 _Santa Clara, CA, Hyderabad, India, Toronto, Canada_
+
+* Compiler Backend for the Celestial AI Machine Learning accelerator architecture
+
 ## [Cerebras](https://cerebras.net/careers/)
 🗺 _Los Altos, CA, San Diego, CA or Toronto, Canada_
 
@@ -222,6 +227,11 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * WOQL Compiler
 
+## [DeepX](https://deepx.career.greetinghr.com/ko/career)
+🗺 _Seongnam, South Korea_
+
+* Deep Learning Compiler for NPU hardware
+
 ## [Deno](https://jobs.ashbyhq.com/Deno) 📤
 * JavaScript runtime and tools written in Rust
 
@@ -272,6 +282,11 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 * Source-to-source compilers
 * Static analysis (LLVM)
 * Parallelizing transformations
+
+## [EnCharge AI](https://www.enchargeai.com/careers)
+🗺 _U.S., Canada, Germany, Norway_
+
+* Graph compilers for AI/ML workloads.
 
 ## [Enso](https://www.ycombinator.com/companies/enso)
 
@@ -644,6 +659,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * [Apache TVM](https://tvm.apache.org/)
 
+## [Omni Design](https://www.omnidesigntech.com/about/careers/)
+🗺 _Multiple locations, USA_
+
+* Circuit compilers for semiconductors, such as memory compilers, register file and SRAM generation, and software driven circuit topology creation.
+
 ## [OpenAI](https://openai.com/careers/)
 🗺 _San Fransisco_
 
@@ -738,6 +758,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 ## [Raincode Labs](https://www.raincodelabs.com/careers/)
 
 * A variety of compiler/language engineering projects, providing modernization and cost reduction.
+
+## [Rebellions](https://rebellions.ai/career/)
+🗺 _Seongnam, South Korea_
+
+* Compiler stack to accelerate deep learning models on NPU products.
 
 ## [Red Hat](https://www.redhat.com/en/jobs)
 
@@ -837,7 +862,7 @@ A number of Compiler/PL projects:
 
 * Heterogenous architecture development
 
-## [SiMa.ai](https://sima.ai/careers/) 
+## [SiMa.ai](https://sima.ai/careers/) 🧑‍🎓
 🗺  _San Jose, CA_
 
 * Machine Learning accelerator compiler
