@@ -432,9 +432,9 @@ Innumerable projects, but off the top of my head:
 As well as some other IBM internal compilers, and LLVM projects.
 
 ## [Imagination Technologies](https://www.imaginationtech.com/careers/vacancies/)
-🗺 _Multiple locations, UK_ 
+🗺 _Cambridge, Manchester, Bristol, Kings Langley, UK, Poland_
 
-* LLVM middle/back-ends
+* PowerVR GPU compiler (middle-end is LLVM-based, but back-end is not)
 
 ## [Immunant](https://immunant.com/jobs/) 📤
 
