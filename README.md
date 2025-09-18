@@ -633,10 +633,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Compiler Engineering (Rust) - Slang
 * Ethereum Development Runtime (Rust) - EDR
 
-## [Nuvia](https://nuviainc.com/careers) 📤
-
-* Toolchain development (LLVM, GCC)
-
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 📤 (some teams)
 
 * LLVM middle-end/back-end contributions
