@@ -1098,6 +1098,12 @@ Toolchain development for RISC-V core with novel hardware memory allocation mana
 * JavaScript compiler
 * Integrated Development Environment targeting desktop, web, mobile and games console environments
 
+## [Yosys HQ](https://www.yosyshq.com/jobs) 📤
+🗺 _Multiple locations, Earth_
+
+* Open source FPGA and ASIC logic synthesis and hardware formal verification with model checking
+* MLIR, CIRCT
+
 ## [Zoox](https://zoox.com/careers/)
 🗺 _Foster City, CA_
 
