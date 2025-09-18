@@ -733,7 +733,8 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 ## [Qualcomm](https://www.qualcomm.com/company/careers) 📤 (some teams)
 
-* LLVM (Hexagon backend, Polly)
+* LLVM (Hexagon, AArch64, and RISC-V teams)
+* GCC
 * GPU Compiler
 * ML Compiler
 
