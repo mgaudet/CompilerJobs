@@ -208,11 +208,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * The Sensor and Language Tooling (SaLT) team works on a DSL to script Falcon's threat detection sensor
 
-## [Cruise](https://www.getcruise.com/careers/jobs/) 📤 (US only)
-🗺 _Multiple locations, US_
-
-* ML compiler based on MLIR
-
 ## [d-Matrix](https://www.d-matrix.ai/careers)
 🗺 _Santa Clara, California _
 
