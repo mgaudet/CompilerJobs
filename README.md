@@ -228,9 +228,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Deep Learning Compiler for NPU hardware
 
-## [Deno](https://jobs.ashbyhq.com/Deno) 📤
-* JavaScript runtime and tools written in Rust
-
 ## [Distributive](https://distributive.network) 📤
 🗺  Kingston, ON (Canada)
 
