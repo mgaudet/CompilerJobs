@@ -95,6 +95,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 * Static Analysis tooling
 
 ## [Arm](https://www.arm.com/company/careers)
+🗺  _Cambridge, Manchester, UK_
 
 * GCC
 * LLVM work to support Arm32 (embedded), and to support Scalable Vector Extension (SVE)
