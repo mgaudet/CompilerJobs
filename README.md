@@ -942,10 +942,11 @@ A number of Compiler/PL projects:
 
 * OCaml compiler
 
-## [Tenstorrent](https://tenstorrent.com/careers/)
+## [Tenstorrent](https://tenstorrent.com/careers/) 📤 (some positions)
 🗺 _Toronto, ON_
 
 * Machine learning hardware compilers
+* RISC-V LLVM toolchain/compiler work
 
 ## [Terapines](https://www.terapines.com/post/1965/)
 🗺 _Wuhan, China_
