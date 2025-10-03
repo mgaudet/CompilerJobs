@@ -320,11 +320,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 * [Cranelift](https://github.com/bytecodealliance/cranelift) 
 * [VCL](https://developer.fastly.com/reference/vcl/)
 
-## [Fathom Radiant](https://fathomradiant.co/careers)
-🗺 _Boulder, CO_
-
-* ML Compiler work
-
 ## [Flow Computing](https://flow-computing.com/company/) 📤 (preferably Europe)
 🗺 _Oulu, Finland_
 
