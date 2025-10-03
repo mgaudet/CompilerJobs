@@ -315,7 +315,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Compilers for Security work 
 
-## [Fabric Cryptography](https://www.fabriccryptography.com/careers) 📤
+## [Fabric Cryptography](https://www.fabriccryptography.com) 📤
 
 * LLVM-based compiler for custom cryptographic hardware
 
