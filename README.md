@@ -895,7 +895,7 @@ A number of Compiler/PL projects:
 * [Sonatype Lift](https://www.sonatype.com/products/sonatype-lift), a code quality analysis platform
 
 ## [Sony](https://www.sonyjobs.com/find-a-job.html)
-🗺 _Bangalore, India_
+🗺 _Bangalore, India, UK_
 
 * LLVM Compiler Development
 
