@@ -592,9 +592,9 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Koka, Lean, F* (F-star)
 * probably other things too.
 
-## [Modular](https://www.modular.ai/careers) 📤
+## [Modular](https://www.modular.com/company/careers) 📤 (US/Canada)
 
-* Building AI tooling.
+* AI Graph Compiler: MLIR
 
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
