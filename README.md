@@ -61,7 +61,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 * [Rust](https://aws.amazon.com/blogs/opensource/how-our-aws-rust-team-will-contribute-to-rusts-future-successes/)
 
 ## [Ambarella](https://www.ambarella.com/)
-🗺 _Santa Clara, CA_
+🗺 _Santa Clara, CA, Taiwan_
 
 * Computer vision AI hardware compiler
 
