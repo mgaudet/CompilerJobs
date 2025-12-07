@@ -456,7 +456,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 🧑‍🎓
 🗺 _New York, London_
 
-Jane Street has work on it's primary for of OCaml, called [OxCaml](http://oxcaml.org), as well as other roles throughout the organization that involve smaller-scale compiler work.
+Jane Street hires compiler engineers to work on [OxCaml](http://oxcaml.org), its internal fork of OCaml, as well as other language-oriented projects.
 
 * A [post about OCaml work at JS](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/)
 * A [Programming langauge engineer](https://www.janestreet.com/join-jane-street/position/4275921002/) role focused on OxCaml.
@@ -464,7 +464,7 @@ Jane Street has work on it's primary for of OCaml, called [OxCaml](http://oxcaml
 * [Tools & Compilers Researcher Internship](https://www.janestreet.com/join-jane-street/position/5869205002/)
 * A [prefaculty](https://www.janestreet.com/join-jane-street/programs-and-events/visiting-researcher-prefaculty/) position aimed at people who want to spend a year in industry before going off to an academic PL faculty position.
 
-Other internal language-oriented projects include work on a [Haxl](https://hackage.haskell.org/package/haxl)-like system in OCaml, work on compilation pipelines to Javascript and Wasm for OCaml, and a SQL variant with several custom execution engines.
+Other internal language-oriented projects include work on a [Haxl](https://hackage.haskell.org/package/haxl)-like libray in OCaml, compilation pipelines to Javascript and Wasm for OCaml, and a SQL variant with several custom execution engines.
 
 ## [Jetbrains](https://www.jetbrains.com/careers/apply/)
 
