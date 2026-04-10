@@ -940,10 +940,10 @@ A number of Compiler/PL projects:
 
 * OCaml compiler
 
-## [Tenstorrent](https://tenstorrent.com/careers/) 📤 (some positions)
-🗺 _Toronto, ON_
+## [Tenstorrent](https://tenstorrent.com/careers/) 📤
+🗺 _Remote worldwide. Offices: Toronto, ON, Santa Clara, CA_
 
-* Machine learning hardware compilers
+* Machine learning hardware compilers based on MLIR
 * RISC-V LLVM toolchain/compiler work
 
 ## [Terapines](https://www.terapines.com/post/1965/)
