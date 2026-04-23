@@ -481,7 +481,7 @@ Other internal language-oriented projects include work on a [Haxl](https://hacka
 
 * J programming language
 
-## [Julia Computing](https://juliacomputing.com/communication/jobs) 📤🧑‍🎓
+## [Julia Computing](https://juliahub.com/company/jobs) 📤🧑‍🎓
 🗺 _Boston, MA_ 
 
 * Development of [Julia](https://julialang.org/)
