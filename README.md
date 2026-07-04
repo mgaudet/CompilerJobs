@@ -411,6 +411,13 @@ Innumerable projects, but off the top of my head:
 * Cray Programming Environment, a suite of Fortran, C and C++ compilers
 * LLVM contributions
 
+## [HTEC](https://htec.com/careers/jobs) 🧑‍🎓
+🗺 _Serbia, Bosnia and Herzegovina, North Macedonia, Hungary, Croatia, Spain, Czech Republic_
+
+* LLVM/Clang and GCC optimization passes and backend support for new architectures
+* AI/ML compiler development
+* Linker, debugger, and profiler tooling
+
 ## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
 
 * Research and Development work in compilers and runtime systems.
