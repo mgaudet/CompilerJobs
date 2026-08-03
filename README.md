@@ -1034,6 +1034,11 @@ Static analysis framework for JavaScript applications
 
 Automated analysis of blockchain programs, built atop LLVM
 
+## [VSORA](https://vsora.com/) 📤
+🗺 _Multiple locations, France_
+
+LLVM-based toolchain for custom AI chips
+
 ## [Vypercore](https://www.vypercore.com/team) 
 🗺 _Bristol / Cambridge_
 
