@@ -1121,3 +1121,8 @@ Toolchain development for RISC-V core with novel hardware memory allocation mana
 🗺 _Foster City, CA_
 
 * Program analysis tools for verifying firmware
+
+## [Zml](https://zml.ai/)
+🗺 _Paris, France_
+
+MLIR-based AI inference stack written in Zig.
