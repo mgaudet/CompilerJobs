@@ -513,7 +513,7 @@ Other internal language-oriented projects include work on a [Haxl](https://hacka
 
 * LLVM work supporting the Arm architecture
 
-## [Lokad](https://www.lokad.com/jobs-senior-compilation-engineer)
+## [Lokad](https://www.lokad.com/careers/)
 🗺 _Paris, France_
 
 * DSL compiler for [supply chain optimisation](http://blog.lokad.com/journal/2016/9/26/will-compilation-save-supply-chains)
