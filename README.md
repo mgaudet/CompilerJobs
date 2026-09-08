@@ -332,7 +332,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * AI Accelarator
 
-## [FutureWei Technologies](https://www.futurewei.com/index.php/careers)
+## [FutureWei Technologies](https://www.futurewei.com/careers)
 
 * Rust compiler work.
 
