@@ -638,7 +638,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Compiler Engineering (Rust) - Slang
 * Ethereum Development Runtime (Rust) - EDR
 
-## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 📤 (some teams)
+## [NVIDIA](https://jobs.nvidia.com/careers) 📤 (some teams)
 
 * LLVM middle-end/back-end contributions
 * Front-end work on nvcc to support CUDA
