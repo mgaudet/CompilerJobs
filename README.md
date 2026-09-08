@@ -558,7 +558,7 @@ A variety of projects, a limited subset of which I know about below.
 
 * Compiler development for Microchip's chips. 
 
-## [Microdoc](https://www.microdoc.com/career/) 📤
+## [Microdoc](https://www.microdoc.com/) 📤
 🗺 _Berlin, Munich, Stuttgart, Germany_
 
 We develop custom GraalVM and Java runtime environments and virtual machines for use in embedded systems:
