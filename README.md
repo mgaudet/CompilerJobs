@@ -48,7 +48,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 * Back-ends to said front-ends ([GCC](https://gcc.gnu.org/), [LLVM](https://github.com/AdaCore/gnat-llvm), [Infer](https://github.com/facebook/infer), [Why3](https://github.com/AdaCore/spark2014)...).
 * Various custom languages (e.g. [langkit](https://github.com/AdaCore/langkit), [gprbuild](https://github.com/AdaCore/gprbuild), [recordflux](https://github.com/Componolit/RecordFlux)...).
 
-## [Aicas](https://www.aicas.com/cms/en/careers)
+## [Aicas](https://www.aicas.com/career/)
 
 🗺  _Karlsruhe, Germany_
 
