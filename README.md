@@ -743,10 +743,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 🗺 _Paris, France_ (remote available within France)
 * A security product built on LLVM
 
-## [Radix Labs](https://www.radix.bio/careers) 📤
-
-* DSL for optimising biotech procedures and executing them in a physical biology lab
-
 ## [Raincode Labs](https://www.raincodelabs.com/careers/)
 
 * A variety of compiler/language engineering projects, providing modernization and cost reduction.
