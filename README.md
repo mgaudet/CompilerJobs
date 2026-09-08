@@ -71,7 +71,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
  * [ROCm](https://rocmdocs.amd.com/en/latest/)
  * Two LLVM teams: work on the AMDGPU backend for graphics and compute 
 
-## [Ampere Computing](https://amperecomputing.com/apply/)
+## [Ampere Computing](https://careers.amperecomputing.com/)
 
 * Work on OpenJDK
 
