@@ -1039,11 +1039,6 @@ Automated analysis of blockchain programs, built atop LLVM
 
 LLVM-based toolchain for custom AI chips
 
-## [Vypercore](https://www.vypercore.com/team) 
-🗺 _Bristol / Cambridge_
-
-Toolchain development for RISC-V core with novel hardware memory allocation management technology. 
-
 ## [Wasmer](https://www.workatastartup.com/jobs/15822)
 
 * WebAssembly runtime (LLVM)
