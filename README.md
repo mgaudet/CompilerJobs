@@ -716,12 +716,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Compiler for Persimmons' proprietary ML accelerator hardware.
 
-## [PGI](https://www.pgroup.com/about/jobs.htm) 
-🗺 _Portland_
-
-* PGI's compilers 
-* [Flang](https://github.com/flang-compiler/flang), a Fortran frontend for LLVM
-
 ## [Praetorian](https://www.praetorian.com/company/careers/) 📤
 🗺 _US_
 
