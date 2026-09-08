@@ -753,11 +753,6 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 🗺 _Paris, France_ (remote available within France)
 * A security product built on LLVM
 
-## [R2C](https://r2c.dev/) 📤
-🗺 _San Fransisco, CA_
-
-* Program analysis tools
-
 ## [Radix Labs](https://www.radix.bio/careers) 📤
 
 * DSL for optimising biotech procedures and executing them in a physical biology lab
@@ -828,6 +823,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * [DMS](http://www.semdesigns.com/Products/DMS/index.html), a suite of program transformation tools for large scale software systems
 * [PARLANSE](http://www.semdesigns.com/Products/Parlanse/index.html), a parallel programming language
+
+## [semgrep](https://semgrep.dev/about/careers/) 📤
+🗺 _San Fransisco, CA_
+
+* Program analysis tools
 
 ## [SEMRON](https://semron.ai/)
 🗺 _Dresden, GER_
