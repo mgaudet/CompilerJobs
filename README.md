@@ -249,7 +249,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Dyalog APL
 
-## [Edgecortix](https://www.edgecortix.com/)
+## [Edgecortix](https://www.edgecortix.com/en/careers)
 🗺  _Tokyo, Japan_
 
 * Machine learning hardware compilers
