@@ -1043,7 +1043,7 @@ LLVM-based toolchain for custom AI chips
 
 * Erlang
 
-## [Wibu-Systems](https://jobs.wibu.com/de?id=d7d9f1) 🧑‍🎓
+## [Wibu-Systems](https://www.wibu.com/us/career.html) 🧑‍🎓
 🗺  _Karlsruhe, Germany_
 
 * compiler development and security research with LLVM, .NET CIL, Python and more
