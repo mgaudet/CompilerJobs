@@ -701,7 +701,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * [Bun](https://bun.sh): a JavaScript runtime with a native bundler, transpiler, task runner, and npm client built-in.
     * Written in Zig
 
-## [Partisa](https://partisia.com/careers/)
+## [Partisa](https://www.partisia.com/)
 🗺 _Aarhus, Denmark_ 
 
 * Creating a language for multi-party computation. 
