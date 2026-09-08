@@ -367,7 +367,7 @@ Innumerable projects, but off the top of my head:
 
 * Machine learning hardware compiler (LLVM)
 
-## [Greenhills](https://www.ghs.com/jobs.html)
+## [Greenhills](https://www.ghs.com/)
 
 * Certified C/C++ for Embedded
 
