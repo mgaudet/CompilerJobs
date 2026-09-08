@@ -815,7 +815,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Non-profit with Scala compiler work (JVM, Scala.js, Scala native), editor integration and tooling
 
-## [SCI Semiconductor](https://www.scisemi.com/careers/) 📤
+## [SCI Semiconductor](https://www.scisemi.com/company/careers/) 📤
 
 * LLVM Support for [CHERIoT](https://cheriot.org/) 
 
