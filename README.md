@@ -406,7 +406,7 @@ Innumerable projects, but off the top of my head:
 * AI/ML compiler development
 * Linker, debugger, and profiler tooling
 
-## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
+## [Huawei](https://career.huawei.com/en)
 
 * Research and Development work in compilers and runtime systems.
 * LLVM
