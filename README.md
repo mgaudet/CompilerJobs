@@ -140,7 +140,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
 Work on the Programming Models and Compilers (PMC) group of the Computational Science Initiative. 
 
-## [ByteDance](https://jobs.bytedance.com)
+## [ByteDance](https://joinbytedance.com/)
 
 🗺 _Mountain View, California_ 
 
