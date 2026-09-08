@@ -960,7 +960,7 @@ A number of Compiler/PL projects:
 
 * Swift compiler work
 
-## [Theobroma Systems](https://careers.theobroma-systems.com/jobs/)
+## [Theobroma Systems](https://theobroma-systems.com/index.html%3Fp=482.html)
 🗺 _Vienna_
 
 * Compiler support for ARM SoC
