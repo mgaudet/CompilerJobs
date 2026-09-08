@@ -513,10 +513,6 @@ Other internal language-oriented projects include work on a [Haxl](https://hacka
 
 * Non-profit with LLVM RISC-V work
 
-## [Lynx Tool](https://lynxtool.com/careers)
-
-* Compiler for a visual programming language.
-
 ## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html?source=19210&s_eid=Rci_19210)
 🗺 _Natick, MA, USA_
 
