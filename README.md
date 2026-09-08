@@ -823,7 +823,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * [Clang-based compiler specialised for embedded development](https://blog.segger.com/the-segger-compiler/)
 
-## [Semantic Designs](http://www.semdesigns.com/Careers/)
+## [Semantic Designs](https://www.semanticdesigns.com/Careers/)
 🗺 _Austin, TX_
 
 * [DMS](http://www.semdesigns.com/Products/DMS/index.html), a suite of program transformation tools for large scale software systems
