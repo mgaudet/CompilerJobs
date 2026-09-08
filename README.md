@@ -215,10 +215,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Elixir
 
-## [DataChemist](https://www.datachemist.com/company/our-team)
-
-* WOQL Compiler
-
 ## [DeepX](https://deepx.career.greetinghr.com/ko/career)
 🗺 _Seongnam, South Korea_
 
