@@ -604,7 +604,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Machine learning hardware compilers
 
-## [Nethermind](https://boards.eu.greenhouse.io/nethermind/jobs/4034249101) 📤 🧑‍🎓 
+## [Nethermind](https://www.nethermind.io/open-roles#open-roles) 📤 🧑‍🎓
 
 * Get to contribute to a compiler for a target language with a novel memory model
 * Opportunity to work on tooling support
