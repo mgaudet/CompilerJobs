@@ -284,7 +284,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Graph compilers for AI/ML workloads.
 
-## [Enso](https://www.ycombinator.com/companies/enso)
+## [Enso](https://ensoanalytics.com/)
 
 * Compiler for visual programming language, JIT based on Graal/Truffle.
 
