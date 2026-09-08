@@ -758,7 +758,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Program analysis tools
 
-## [Radix Labs](https://www.radix.bio/careers) 📤
+## [Radix Labs](https://www.radixbiosolutions.com/) 📤
 
 * DSL for optimising biotech procedures and executing them in a physical biology lab
 
