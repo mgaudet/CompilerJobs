@@ -107,7 +107,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
 * LLVM and Hardware codesign.
 
-## [Astral](https://astral.sh/) 📤
+## [Astral](https://jobs.ashbyhq.com/astral/) 📤
 
 * [Ruff](https://astral.sh/ruff), a linter and autoformatter for Python code written in Rust.
 
