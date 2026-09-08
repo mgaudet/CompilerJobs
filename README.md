@@ -308,7 +308,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * LLVM-based compiler for custom cryptographic hardware
 
-## [Fastly](https://www.fastly.com/about/careers)
+## [Fastly](https://www.fastly.com/about/careers/current-openings)
 
 * [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
 * [Cranelift](https://github.com/bytecodealliance/cranelift) 
