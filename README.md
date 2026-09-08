@@ -247,7 +247,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 * C/C++ compilers
 * D compiler
 
-## [Dropbox](https://www.dropbox.com/jobs) 
+## [Dropbox](https://www.dropbox.jobs/en/jobs/)
 
 * Python
 * [MyPy](http://mypy-lang.org/about.html)
