@@ -1006,13 +1006,6 @@ Building a processing-in-memory product.
 
 * Work on Language and Runtime system 
 
-## [Ventana](https://jobs.jobvite.com/ventanamicro/)
-
-* RISC-V Architecture
-* GCC
-* LLVM
-* Performance Analysis
-
 ## [Vercel](https://vercel.com/careers?department=Engineering)
 🗺 United States
 
