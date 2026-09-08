@@ -184,10 +184,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Clang, LLVM, LLDB
 
-## [Cognitect](https://www.cognitect.com/careers.html)
-
-* Clojure and ClojureScript
-
 ## [Coherent Logix](https://www.coherentlogix.com/careers/)📤
 🗺 _Austin, TX_
 
@@ -637,6 +633,10 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Compiler Engineering (Rust) - Slang
 * Ethereum Development Runtime (Rust) - EDR
+
+## [Nubank](https://jobs.ashbyhq.com/nubank) (Previously Cognitect)
+
+* Clojure and ClojureScript
 
 ## [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) 📤 (some teams)
 
