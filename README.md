@@ -334,6 +334,14 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Programming language design and implementation for building trustworthy computing. 
 
+## [GameMaker](https://gamemaker.io/en/jobs) 📤
+🗺 _Dundee, Scotland_
+
+* LLVM
+* GML (GameMaker Language) compiler
+* JavaScript compiler
+* Integrated Development Environment targeting desktop, web, mobile and games console environments
+
 ## [GitHub](https://github.com/about/careers) 📤
 
 * [CodeQL](https://securitylab.github.com/tools/codeql/), a query language for writing custom static analysis rules
@@ -1078,14 +1086,6 @@ LLVM-based toolchain for custom AI chips
 
 * Compilation stack for quantum computing and hybrid computation
 * LLVM, MLIR, QIR 
-
-## [YoYo Games](https://www.yoyogames.com/en/jobs) 📤
-🗺 _Dundee, Scotland_
-
-* LLVM
-* GML (GameMaker Language) compiler
-* JavaScript compiler
-* Integrated Development Environment targeting desktop, web, mobile and games console environments
 
 ## [Yosys HQ](https://www.yosyshq.com/jobs) 📤
 🗺 _Multiple locations, Earth_
