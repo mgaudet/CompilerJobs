@@ -739,8 +739,9 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Quantum compiler
 
-## [Quarkslab](https://www.quarkslab.com/careers-jobs/) 
+## [Quarkslab](https://www.quarkslab.com/join-quarkslab-recruitment-cybersecurity-company/)
 🗺 _Paris, France_ (remote available within France)
+
 * A security product built on LLVM
 
 ## [Radix Labs](https://www.radix.bio/careers) 📤
