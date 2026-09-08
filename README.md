@@ -431,10 +431,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Builds [the C2Rust translator](https://github.com/immunant/c2rust)
 
-## [Inria](https://www.inria.fr/en/)
+## [Inria](https://recrutement.inria.fr/public/classic/en/offres?locale=en)
 🗺 _Multiple locations, France_
 
 * OCaml, Coq
+* [Pharo](pharo.org) runtime and virtual machine development [team EVREF](https://www.inria.fr/en/evref)
+* code analysis tool [spoon](https://spoon.gforge.inria.fr/) [team SPIRAL](https://www.inria.fr/en/spirals)
 
 ## [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html) 📤 (few teams at Intel Labs)
 
