@@ -330,11 +330,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Aquamarine, a distributed choreography language & platform
 
-## [Flux Computing](https://www.fluxcomputing.com/careers)
-🗺 _London, UK,_
-
-* Machine learning compiler for optical TPU hardware
-
 ## [Fuel Labs](https://jobs.lever.co/fuellabs) 📤
 
 * Building [Sway](https://github.com/FuelLabs/sway), a smart-contract programming language
@@ -664,6 +659,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 ## [OctoML](https://octoml.ai/company/careers/) 📤
 
 * [Apache TVM](https://tvm.apache.org/)
+
+## [Olix](https://olix.com/careers#open-roles)
+🗺 _London, UK,_
+
+* Machine learning compiler for optical TPU hardware
 
 ## [Omni Design](https://www.omnidesigntech.com/about/careers/)
 🗺 _Multiple locations, USA_
