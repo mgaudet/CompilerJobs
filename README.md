@@ -661,7 +661,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Machine learning compiler for optical TPU hardware
 
-## [Omni Design](https://www.omnidesigntech.com/about/careers/)
+## [Omni Design](https://www.omnidesigntech.com/company/careers)
 🗺 _Multiple locations, USA_
 
 * Circuit compilers for semiconductors, such as memory compilers, register file and SRAM generation, and software driven circuit topology creation.
