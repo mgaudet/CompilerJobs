@@ -79,7 +79,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
 * [Pyston](https://www.anaconda.com/blog/pyston-team-joins-anaconda): General-purpose Python JIT originally developed at Dropbox
 
-## [Anyon Systems](https://anyonsys.com/)
+## [Anyon Systems](https://anyon.bamboohr.com/careers)
 🗺 _Toronto / Markham, Canada_
 
 * Quantum Compiler Development
