@@ -614,7 +614,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Ethereum L2 
 
-## [Nintendo](https://careers.nintendo.com/job-openings/)
+## [Nintendo](https://careers.nintendo.com/jobs)
 🗺 _Redmond, WA_ 
 
 * Compiler engineering
