@@ -536,7 +536,7 @@ Other internal language-oriented projects include work on a [Haxl](https://hacka
 * [LLVM](https://llvm.org/devmtg/2014-10/Slides/Cheng-InteractiveModeling.pdf)
 * [JIT](https://www.mathworks.com/company/jobs/opportunities/9537-senior-software-engineer-jit-compiler?source=19210&s_eid=Rci_19210)
 
-## [Matter Labs](https://matter-labs.io) 📤
+## [Matter Labs](https://jobs.ashbyhq.com/matter-labs) 📤
 
 * LLVM-based compiler for executing Ethereum smart contracts
 
