@@ -518,7 +518,7 @@ Other internal language-oriented projects include work on a [Haxl](https://hacka
 
 * DSL compiler for [supply chain optimisation](http://blog.lokad.com/journal/2016/9/26/will-compilation-save-supply-chains)
 
-## [lowRISC](https://lowrisc.applytojob.com/)
+## [lowRISC](https://lowrisc.org/careers/)
 🗺 _Cambridge, UK_
 
 * Non-profit with LLVM RISC-V work
