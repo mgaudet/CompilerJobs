@@ -188,11 +188,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Clojure and ClojureScript
 
-## [Coherent Logix](https://www.coherentlogix.com/careers/)📤
-🗺 _Austin, TX_
-
-* Building an LLVM based C compiler for Coherent Logix's multicore chip.
-
 ## [Columbia University - Data Science Institute](https://apply.interfolio.com/91828)
 🗺 _New York City_
 
@@ -423,6 +418,11 @@ Innumerable projects, but off the top of my head:
 * Research and Development work in compilers and runtime systems.
 * LLVM
 * Rust
+
+## [Hyperxlogic](https://www.hyperxlogic.com/resources/careers/)📤 (previously Coherent Logix)
+🗺 _Austin, TX_
+
+* Building an LLVM based C compiler for Coherent Logix's multicore chip.
 
 ## [IBM](https://www.ibm.com/employment/) 🧑‍🎓
 🗺 _Markham, Ontario, Canada_ 
