@@ -193,13 +193,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Building an LLVM based C compiler for Coherent Logix's multicore chip.
 
-## [Columbia University - Data Science Institute](https://careers.columbia.edu/) [example](https://apply.interfolio.com/91828)
-🗺 _New York City_
-
-* Building languages for probabilistic programming and causal reasoning.
-* Static/Dynamic analyses and code transformation.
-* Julia oriented.
-
 ## [Compiler Tool Chain Consulting Services](https://compiler-toolchain-for.me/careers) 📤
 
 * Custom LLVM-based compiler toolchains for clients
