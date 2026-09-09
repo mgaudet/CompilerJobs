@@ -326,7 +326,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * LLVM (mostly back-end)
 
-## [Fluence Labs](https://cloudless.dev/join.html) 📤
+## [Fluence Labs](https://fluence.ai/) 📤
 
 * Aquamarine, a distributed choreography language & platform
 
