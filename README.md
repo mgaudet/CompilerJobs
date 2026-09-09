@@ -609,7 +609,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 *  Building [Glow](https://glow-lang.org), a language for DApps
 
-## [Mythic](https://jobs.lever.co/mythic-ai.com/)
+## [Mythic](https://mythic.ai)
 🗺 _SF Bay Area, CA_
 
 * Machine learning hardware compilers
