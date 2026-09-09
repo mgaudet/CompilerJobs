@@ -941,7 +941,7 @@ A number of Compiler/PL projects:
 * Machine learning hardware compilers based on MLIR
 * RISC-V LLVM toolchain/compiler work
 
-## [Terapines](https://www.terapines.com/post/1965/)
+## [Terapines](https://www.terapines.com/en/)
 🗺 _Wuhan, China_
 
 * AI compiler development based on LLVM/MLIR
