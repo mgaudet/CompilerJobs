@@ -48,7 +48,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 * Back-ends to said front-ends ([GCC](https://gcc.gnu.org/), [LLVM](https://github.com/AdaCore/gnat-llvm), [Infer](https://github.com/facebook/infer), [Why3](https://github.com/AdaCore/spark2014)...).
 * Various custom languages (e.g. [langkit](https://github.com/AdaCore/langkit), [gprbuild](https://github.com/AdaCore/gprbuild), [recordflux](https://github.com/Componolit/RecordFlux)...).
 
-## [Aicas](https://www.aicas.com/cms/en/careers)
+## [Aicas](https://www.aicas.com/career/)
 
 🗺  _Karlsruhe, Germany_
 
@@ -65,13 +65,13 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
 * Computer vision AI hardware compiler
 
-## [AMD](https://jobs.amd.com/) 📤 (most teams)
+## [AMD](https://careers.amd.com/careers-home/jobs) 📤 (most teams)
 
  * [AOCC](https://developer.amd.com/amd-aocc/)
  * [ROCm](https://rocmdocs.amd.com/en/latest/)
  * Two LLVM teams: work on the AMDGPU backend for graphics and compute 
 
-## [Ampere Computing](https://amperecomputing.com/apply/)
+## [Ampere Computing](https://careers.amperecomputing.com/)
 
 * Work on OpenJDK
 
@@ -140,7 +140,7 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
 Work on the Programming Models and Compilers (PMC) group of the Computational Science Initiative. 
 
-## [ByteDance](https://jobs.bytedance.com)
+## [ByteDance](https://joinbytedance.com/)
 
 🗺 _Mountain View, California_ 
 
@@ -184,10 +184,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Clang, LLVM, LLDB
 
-## [Cognitect](https://www.cognitect.com/careers.html)
-
-* Clojure and ClojureScript
-
 ## [Coherent Logix](https://www.coherentlogix.com/careers/)📤
 🗺 _Austin, TX_
 
@@ -219,16 +215,13 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Elixir
 
-## [DataChemist](https://www.datachemist.com/company/our-team)
-
-* WOQL Compiler
-
 ## [DeepX](https://deepx.career.greetinghr.com/ko/career)
 🗺 _Seongnam, South Korea_
 
 * Deep Learning Compiler for NPU hardware
 
-## [Deno](https://jobs.ashbyhq.com/Deno) 📤
+## [Deno](https://deno.com/) 📤
+
 * JavaScript runtime and tools written in Rust
 
 ## [Distributive](https://distributive.network) 📤
@@ -247,7 +240,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 * C/C++ compilers
 * D compiler
 
-## [Dropbox](https://www.dropbox.com/jobs) 
+## [Dropbox](https://www.dropbox.jobs/en/jobs/)
 
 * Python
 * [MyPy](http://mypy-lang.org/about.html)
@@ -256,7 +249,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Dyalog APL
 
-## [Edgecortix](https://www.edgecortix.com/)
+## [Edgecortix](https://www.edgecortix.com/en/careers)
 🗺  _Tokyo, Japan_
 
 * Machine learning hardware compilers
@@ -284,7 +277,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Graph compilers for AI/ML workloads.
 
-## [Enso](https://www.ycombinator.com/companies/enso)
+## [Enso](https://ensoanalytics.com/)
 
 * Compiler for visual programming language, JIT based on Graal/Truffle.
 
@@ -315,7 +308,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * LLVM-based compiler for custom cryptographic hardware
 
-## [Fastly](https://www.fastly.com/about/careers)
+## [Fastly](https://www.fastly.com/about/careers/current-openings)
 
 * [Lucet](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime), a WebAssembly compiler and runtime for edge computation.  
 * [Cranelift](https://github.com/bytecodealliance/cranelift) 
@@ -330,11 +323,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Aquamarine, a distributed choreography language & platform
 
-## [Flux Computing](https://www.fluxcomputing.com/careers)
-🗺 _London, UK,_
-
-* Machine learning compiler for optical TPU hardware
-
 ## [Fuel Labs](https://jobs.lever.co/fuellabs) 📤
 
 * Building [Sway](https://github.com/FuelLabs/sway), a smart-contract programming language
@@ -344,7 +332,7 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * AI Accelarator
 
-## [FutureWei Technologies](https://www.futurewei.com/index.php/careers)
+## [FutureWei Technologies](https://www.futurewei.com/careers)
 
 * Rust compiler work.
 
@@ -379,7 +367,7 @@ Innumerable projects, but off the top of my head:
 
 * Machine learning hardware compiler (LLVM)
 
-## [Greenhills](https://www.ghs.com/jobs.html)
+## [Greenhills](https://www.ghs.com/)
 
 * Certified C/C++ for Embedded
 
@@ -405,7 +393,7 @@ Innumerable projects, but off the top of my head:
 
 * Quantum computing compiler
 
-## [HPE](https://careers.hpe.com/jobs) 📤🧑‍🎓
+## [HPE](https://careers.hpe.com/us/en/careers-at-hpe) 📤🧑‍🎓
 
 * [Chapel](https://chapel-lang.org/)
 * Cray Programming Environment, a suite of Fortran, C and C++ compilers
@@ -418,7 +406,7 @@ Innumerable projects, but off the top of my head:
 * AI/ML compiler development
 * Linker, debugger, and profiler tooling
 
-## [Huawei](https://www.huawei.com/ch-en/about-huawei/careers) 
+## [Huawei](https://career.huawei.com/en)
 
 * Research and Development work in compilers and runtime systems.
 * LLVM
@@ -443,10 +431,12 @@ As well as some other IBM internal compilers, and LLVM projects.
 
 * Builds [the C2Rust translator](https://github.com/immunant/c2rust)
 
-## [Inria](https://www.inria.fr/en/)
+## [Inria](https://recrutement.inria.fr/public/classic/en/offres?locale=en)
 🗺 _Multiple locations, France_
 
 * OCaml, Coq
+* [Pharo](pharo.org) runtime and virtual machine development [team EVREF](https://www.inria.fr/en/evref)
+* code analysis tool [spoon](https://spoon.gforge.inria.fr/) [team SPIRAL](https://www.inria.fr/en/spirals)
 
 ## [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html) 📤 (few teams at Intel Labs)
 
@@ -513,7 +503,7 @@ Other internal language-oriented projects include work on a [Haxl](https://hacka
 
 * LLVM work supporting the Arm architecture
 
-## [Lokad](https://www.lokad.com/jobs-senior-compilation-engineer)
+## [Lokad](https://www.lokad.com/careers/)
 🗺 _Paris, France_
 
 * DSL compiler for [supply chain optimisation](http://blog.lokad.com/journal/2016/9/26/will-compilation-save-supply-chains)
@@ -522,10 +512,6 @@ Other internal language-oriented projects include work on a [Haxl](https://hacka
 🗺 _Cambridge, UK_
 
 * Non-profit with LLVM RISC-V work
-
-## [Lynx Tool](https://lynxtool.com/careers)
-
-* Compiler for a visual programming language.
 
 ## [MathWorks](https://www.mathworks.com/company/jobs/opportunities.html?source=19210&s_eid=Rci_19210)
 🗺 _Natick, MA, USA_
@@ -572,7 +558,7 @@ A variety of projects, a limited subset of which I know about below.
 
 * Compiler development for Microchip's chips. 
 
-## [Microdoc](https://www.microdoc.com/career/) 📤
+## [Microdoc](https://www.microdoc.com/) 📤
 🗺 _Berlin, Munich, Stuttgart, Germany_
 
 We develop custom GraalVM and Java runtime environments and virtual machines for use in embedded systems:
@@ -614,7 +600,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Machine learning hardware compilers
 
-## [Nethermind](https://boards.eu.greenhouse.io/nethermind/jobs/4034249101) 📤 🧑‍🎓 
+## [Nethermind](https://www.nethermind.io/open-roles#open-roles) 📤 🧑‍🎓
 
 * Get to contribute to a compiler for a target language with a novel memory model
 * Opportunity to work on tooling support
@@ -628,7 +614,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Ethereum L2 
 
-## [Nintendo](https://careers.nintendo.com/job-openings/)
+## [Nintendo](https://careers.nintendo.com/jobs)
 🗺 _Redmond, WA_ 
 
 * Compiler engineering
@@ -637,6 +623,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Compiler Engineering (Rust) - Slang
 * Ethereum Development Runtime (Rust) - EDR
+
+
+## [Nubank](https://jobs.ashbyhq.com/nubank) (Previously Cognitect)
+
+* Clojure and ClojureScript
 
 ## [NVIDIA](https://jobs.nvidia.com/careers) 📤 (some teams)
 
@@ -664,6 +655,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 ## [OctoML](https://octoml.ai/company/careers/) 📤
 
 * [Apache TVM](https://tvm.apache.org/)
+
+## [Olix](https://olix.com/careers#open-roles)
+🗺 _London, UK,_
+
+* Machine learning compiler for optical TPU hardware
 
 ## [Omni Design](https://www.omnidesigntech.com/about/careers/)
 🗺 _Multiple locations, USA_
