@@ -826,8 +826,8 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 ## [Semantic Designs](https://www.semanticdesigns.com/Careers/)
 🗺 _Austin, TX_
 
-* [DMS](http://www.semdesigns.com/Products/DMS/index.html), a suite of program transformation tools for large scale software systems
-* [PARLANSE](http://www.semdesigns.com/Products/Parlanse/index.html), a parallel programming language
+* [DMS](https://www.semanticdesigns.com/Products/DMS/DMSToolkit.html), a suite of program transformation tools for large scale software systems
+* [PARLANSE](https://www.semanticdesigns.com/Products/Parlanse/index.html), a parallel programming language
 
 ## [SEMRON](https://semron.ai/)
 🗺 _Dresden, GER_
