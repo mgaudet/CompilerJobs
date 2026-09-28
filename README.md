@@ -79,6 +79,14 @@ I generally link to a company's Careers/Job's page rather than linking to specif
 
 * [Pyston](https://www.anaconda.com/blog/pyston-team-joins-anaconda): General-purpose Python JIT originally developed at Dropbox
 
+## [Andes](https://www.andestech.com)
+
+🗺 _Taiwan_
+
+* RISC-V and [nds32](https://gcc.gnu.org/onlinedocs/gcc/NDS32-Options.html) compiler and toolchain development (GCC, LLVM, binutils-gdb)
+* MLIR
+* TVM
+
 ## [Anyon Systems](https://anyonsys.com/)
 🗺 _Toronto / Markham, Canada_
 
