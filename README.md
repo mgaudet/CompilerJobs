@@ -1027,7 +1027,7 @@ Automated analysis of blockchain programs, built atop LLVM
 
 LLVM-based toolchain for custom AI chips
 
-## [Wasmer](https://wasmer.io/)
+## [Wasmer](https://www.workatwasmer.com/)
 
 * WebAssembly runtime (LLVM)
 
