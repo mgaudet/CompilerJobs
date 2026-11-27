@@ -942,7 +942,7 @@ A number of Compiler/PL projects:
 
 * OCaml compiler
 
-## [Tensordyne](https://job-boards.greenhouse.io/tensordyne)
+## [Tensordyne](https://www.tensordyne.ai/careers)
 🗺 _Munich, Germany / Sunnyvale, CA_
 
 * ML inference accelerator compiler (MLIR/LLVM)
