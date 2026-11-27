@@ -942,6 +942,13 @@ A number of Compiler/PL projects:
 
 * OCaml compiler
 
+## [Tensordyne](https://job-boards.greenhouse.io/tensordyne)
+🗺 _Munich, Germany / Sunnyvale, CA_
+
+* ML inference accelerator compiler (MLIR/LLVM)
+* Backend codegen down to microcode, memory planning, tiling/fusion
+* Hardware software co-design
+
 ## [Tenstorrent](https://tenstorrent.com/careers/) 📤
 🗺 _Remote worldwide. Offices: Toronto, ON, Santa Clara, CA_
 
